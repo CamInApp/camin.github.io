@@ -6,7 +6,7 @@
 
 2\. 然后重启 CamIn。
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>screenshot 3</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p> win-brush-screenshot</p></figcaption></figure>
 
 ### **苹果电脑 macOS 解决方法**
 
@@ -14,5 +14,5 @@
 
 2\. 在这个文件夹下看到一个一串都是数字的子文件夹，进入后把 edb 文件夹删除即可。
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>mac-brush-screenshot</p></figcaption></figure>
 
