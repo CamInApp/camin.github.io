@@ -10,4 +10,4 @@
 
 将人像设置为背景透明效果，即可得到视频动态背景。你也可以把摄像头通道隐藏，或将摄像头删除，得到一个纯粹的视频背景。
 
-<figure><img src="../.gitbook/assets/7864CAA1-A23F-4CB2-98D5-1AD3957B04F4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/7864CAA1-A23F-4CB2-98D5-1AD3957B04F4.png" alt=""><figcaption><p>background-virtual.png</p></figcaption></figure>
