@@ -1,4 +1,8 @@
-# Mac 版启动时提示输入密码后 CamIn 直接退出怎么办？
+---
+description: CamI
+---
+
+# Mac 版 CamIn 启动时提示输入密码，后直接退出怎么办？
 
 1. 通过【访达】-【前往】-【前往文件夹】输入/Library/CoreMediaIO/Plug-Ins/DAL，进入文件夹；
 
