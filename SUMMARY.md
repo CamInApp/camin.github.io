@@ -14,7 +14,7 @@
 * [常见问题](chang-jian-wen-ti/README.md)
   * [如何将圆形头像修改成方形？](chang-jian-wen-ti/ru-he-jiang-yuan-xing-tou-xiang-xiu-gai-cheng-fang-xing.md)
   * [如何将头像放大或缩小？](chang-jian-wen-ti/ru-he-jiang-tou-xiang-fang-da-huo-suo-xiao.md)
-  * [Mac 版 ClassIn 中显示 CamIn 全黑怎么办？](chang-jian-wen-ti/mac-ban-classin-zhong-xian-shi-camin-quan-hei-zen-mo-ban.md)
+  * [Mac 版 CamIn 在ClassIn 中全黑怎么办？](chang-jian-wen-ti/mac-ban-camin-zai-classin-zhong-quan-hei-zen-mo-ban.md)
   * [Mac 版启动时提示输入密码后 CamIn 直接退出怎么办？](chang-jian-wen-ti/mac-ban-qi-dong-shi-ti-shi-shu-ru-mi-ma-hou-camin-zhi-jie-tui-chu-zen-mo-ban.md)
   * [画笔太粗怎么办？](chang-jian-wen-ti/hua-bi-tai-cu-zen-mo-ban.md)
   * [使用虚拟背景后人像消失了，怎么办？](chang-jian-wen-ti/shi-yong-xu-ni-bei-jing-hou-ren-xiang-xiao-shi-le-zen-mo-ban.md)
