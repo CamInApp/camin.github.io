@@ -6,7 +6,7 @@
 
 <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Add PPT </p></figcaption></figure>
 
-&#x20;**方法2：**点击【新建通道】，在应用界面的下方点击【添加内容源】。注意：新创建的通道会平铺在右侧画面区域。
+&#x20;**方法2：**点击【新建通道】，在应用界面的下方点击【添加内容源】。注意：新创建的通道的通道框会平铺在右侧画面区域。
 
 <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>Add source</p></figcaption></figure>
 
