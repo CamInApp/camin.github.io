@@ -7,6 +7,7 @@
   * [如何录制 PPT 和人像同时出现的视频？](shi-yong-zhi-nan/ru-he-lu-zhi-ppt-he-ren-xiang-tong-shi-chu-xian-de-shi-pin.md)
   * [如何设置美颜或虚拟背景？](shi-yong-zhi-nan/ru-he-she-zhi-mei-yan-huo-xu-ni-bei-jing.md)
   * [如何把视频设置为虚拟背景？](shi-yong-zhi-nan/ru-he-ba-shi-pin-she-zhi-wei-xu-ni-bei-jing.md)
+  * [屏幕共享](shi-yong-zhi-nan/ping-mu-gong-xiang.md)
   * [如何在 ClassIn 中使用 CamIn?](shi-yong-zhi-nan/ru-he-zai-classin-zhong-shi-yong-camin/README.md)
     * [如何在腾讯会议中使用 CamIn?](shi-yong-zhi-nan/ru-he-zai-classin-zhong-shi-yong-camin/ru-he-zai-teng-xun-hui-yi-zhong-shi-yong-camin.md)
 * [功能概览](gong-neng-gai-lan/README.md)
