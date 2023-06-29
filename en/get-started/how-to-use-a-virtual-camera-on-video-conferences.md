@@ -2,8 +2,6 @@
 
 Video conferences have already become the norm for communication and collaboration. However, the limited features offered by most video calling apps can make these meetings dull and uninspiring. Fortunately, there is a solution: using a virtual camera. With a virtual camera like CamIn, you can enhance your video calls, business presentations, and client meetings by incorporating multiple media sources, camera angles, and video adjustments. Here's how to use one effectively:
 
-
-
 ### **Step 1 - Download CamIn**
 
 Get started by downloading CamIn for free or upgrade to CamIn Pro for additional features and flexibility.
@@ -16,7 +14,7 @@ Before connecting your virtual camera to a video call, you need to set up your v
 
 For example, you can add picture-in-picture layers to your video, featuring your webcam in a rounded view in one corner and your PowerPoint presentation as the primary scene. The ability to create multiple picture-in-picture layers and switch between various scenes provides endless opportunities for making your videos visually appealing and engaging.
 
-<figure><img src="../.gitbook/assets/homepage-camIn-maininterface-en-b4eceee4.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/homepage-camIn-maininterface-en-b4eceee4 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ### Step 3 - Connect to Your Video Conferencing App
 
