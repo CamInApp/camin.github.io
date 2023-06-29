@@ -25,9 +25,9 @@ With CamIn, you can record your camera, microphone, and presentations simultaneo
 2. [How to set touch up or virtual background?](how-to-set-touch-up-and-virtual-background.md)
 3. [How to use CamIn in ClassIn?](how-to-use-camin-virtual-camera-in-classin.md)
 
-****
 
-****
+
+
 
 
 

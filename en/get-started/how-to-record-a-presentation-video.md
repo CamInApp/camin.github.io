@@ -31,7 +31,7 @@ Click on "Settings" button when the mouse moves to the portrait area. In the exp
 
 <figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption><p>Method_to_turn_pages</p></figcaption></figure>
 
-1. **Page navigation：**First **** expand the doc by clicking on it, and then click the specific slide to quickly jump to and show it. If you wnat to go back, click on the return button.
+1. **Page navigation：**First expand the doc by clicking on it, and then click the specific slide to quickly jump to and show it. If you wnat to go back, click on the return button.
 
 ### Start recording
 
