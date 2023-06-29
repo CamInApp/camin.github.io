@@ -22,7 +22,7 @@ For example, you can add picture-in-picture layers to your video, featuring your
 
 Once you have set up your video feed in CamIn, it's time to connect it to your video conferencing app. In most video conferencing apps, you'll find a video icon that allows you to select your webcam or check its connection status. Depending on the app, this control may be located in the settings or directly on the main call interface.
 
-For example, in Classin, you can find it on the main call interface. Simply click on the video icon, and you should see CamIn Virtual Camera listed among the options. Select CamIn Virtual Camera, and your video feed will appear in your video conferencing app, seamlessly integrating the enhanced visuals you created.
+For example, in ClassIn, you can find it on the main call interface. Simply click on the video icon, and you should see CamIn Virtual Camera listed among the options. Select CamIn Virtual Camera, and your video feed will appear in your video conferencing app, seamlessly integrating the enhanced visuals you created.
 
 <figure><img src="../.gitbook/assets/video-settings-calssin.png" alt=""><figcaption></figcaption></figure>
 
