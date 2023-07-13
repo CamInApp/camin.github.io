@@ -21,3 +21,4 @@
   * [The avatar disappeared after setting a virtual background?](faq/the-avatar-disappeared-after-setting-a-virtual-background.md)
 * [Changelog](changelog.md)
 * [Contact Us](contact-us.md)
+* [How to Record Yourself Presenting a PowerPoint?](how-to-record-yourself-presenting-a-powerpoint.md)
