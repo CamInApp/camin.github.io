@@ -21,4 +21,5 @@
 ## Please be noted
 
 1. To live stream on YouTube, you need to have no [live streaming restrictions](https://support.google.com/youtube/answer/2853834) in the past 90 days and you need to [verify your channel](https://support.google.com/youtube/answer/171664).
+2. Learn more about live streaming on YouTube, [click here.](https://support.google.com/youtube/topic/9257891?hl=en\&ref\_topic=9257610)
 
