@@ -22,4 +22,5 @@
   * [The avatar disappeared after setting a virtual background?](faq/the-avatar-disappeared-after-setting-a-virtual-background.md)
 * [Changelog](changelog.md)
 * [Contact Us](contact-us.md)
+* [CamIn's New Teleprompter Function: A Game-Changer for Video Creators](camins-new-teleprompter-function-a-game-changer-for-video-creators.md)
 * [How to Record Yourself Presenting a PowerPoint?](how-to-record-yourself-presenting-a-powerpoint.md)
