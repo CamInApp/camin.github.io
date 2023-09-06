@@ -10,15 +10,11 @@ CamIn's new teleprompter function is a game-changer for video creators. It seaml
 
 ## Key Features of CamIn's Teleprompter Function
 
-### Script Integration:&#x20;
-
-Users can easily import their scripts directly into CamIn's teleprompter. This ensures that you can stay on track and deliver your content flawlessly without worrying about forgetting your lines.
+**Script Integration:** Users can easily import their scripts directly into CamIn's teleprompter. This ensures that you can stay on track and deliver your content flawlessly without worrying about forgetting your lines.
 
 <figure><img src=".gitbook/assets/Teleprompter Function 1.png" alt=""><figcaption></figcaption></figure>
 
-### Customization:&#x20;
-
-CamIn allows users to customize the teleprompter display to suit their preferences. You can adjust the font size, speed of the scrolling text, window size to create a comfortable and personalized reading experience.
+**Customization:** CamIn allows users to customize the teleprompter display to suit their preferences. You can adjust the font size, speed of the scrolling text, window size to create a comfortable and personalized reading experience.
 
 <figure><img src=".gitbook/assets/Teleprompter Function 2.png" alt=""><figcaption></figcaption></figure>
 
