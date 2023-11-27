@@ -22,7 +22,7 @@ In the email composition window you'll see a CamIn icon. Click on the CamIn icon
 
 Once satisfied, click "Send" to share your video-enhanced email.
 
-<figure><img src=".gitbook/assets/insert-video.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/insert-video (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Test the Email:
 
