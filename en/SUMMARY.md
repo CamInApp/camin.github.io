@@ -20,6 +20,7 @@
   * [\[Mac\] It requires the password of system when launching CamIn?](faq/mac-it-requires-the-password-of-system-when-launching-camin.md)
   * [How to solve paintbursh is too tick?](faq/how-to-solve-paintbursh-is-too-tick.md)
   * [The avatar disappeared after setting a virtual background?](faq/the-avatar-disappeared-after-setting-a-virtual-background.md)
+  * [What to Do If Screen Mirroring Fails?](faq/what-to-do-if-screen-mirroring-fails.md)
 * [Changelog](changelog.md)
 * [Contact Us](contact-us.md)
 * [CamIn's New Teleprompter Function: A Game-Changer for Video Creators](camins-new-teleprompter-function-a-game-changer-for-video-creators.md)
