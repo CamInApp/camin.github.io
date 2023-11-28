@@ -28,6 +28,7 @@
   * [Mac 版 CamIn 启动时提示输入密码，后直接退出怎么办？](chang-jian-wen-ti/mac-ban-camin-qi-dong-shi-ti-shi-shu-ru-mi-ma-hou-zhi-jie-tui-chu-zen-mo-ban.md)
   * [画笔太粗怎么办？](chang-jian-wen-ti/hua-bi-tai-cu-zen-mo-ban.md)
   * [使用虚拟背景后人像消失了，怎么办？](chang-jian-wen-ti/shi-yong-xu-ni-bei-jing-hou-ren-xiang-xiao-shi-le-zen-mo-ban.md)
+  * [投屏失败怎么办？](chang-jian-wen-ti/tou-ping-shi-bai-zen-mo-ban.md)
   * [设置虚拟背景过程中总是闪退，怎么办？](chang-jian-wen-ti/she-zhi-xu-ni-bei-jing-guo-cheng-zhong-zong-shi-shan-tui-zen-mo-ban.md)
 * [更新日志](geng-xin-ri-zhi.md)
 * [联系我们](lian-xi-wo-men.md)
