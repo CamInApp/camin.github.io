@@ -29,6 +29,6 @@
   * [画笔太粗怎么办？](chang-jian-wen-ti/hua-bi-tai-cu-zen-mo-ban.md)
   * [使用虚拟背景后人像消失了，怎么办？](chang-jian-wen-ti/shi-yong-xu-ni-bei-jing-hou-ren-xiang-xiao-shi-le-zen-mo-ban.md)
   * [投屏失败怎么办？](chang-jian-wen-ti/tou-ping-shi-bai-zen-mo-ban.md)
-  * [设置虚拟背景过程中总是闪退，怎么办？](chang-jian-wen-ti/she-zhi-xu-ni-bei-jing-guo-cheng-zhong-zong-shi-shan-tui-zen-mo-ban.md)
-* [更新日志](geng-xin-ri-zhi.md)
+* [更新日志](geng-xin-ri-zhi/README.md)
+  * [设置虚拟背景过程中总是闪退，怎么办？](geng-xin-ri-zhi/she-zhi-xu-ni-bei-jing-guo-cheng-zhong-zong-shi-shan-tui-zen-mo-ban.md)
 * [联系我们](lian-xi-wo-men.md)
