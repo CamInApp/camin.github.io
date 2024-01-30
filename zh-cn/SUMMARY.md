@@ -8,6 +8,7 @@
   * [如何设置美颜或虚拟背景？](shi-yong-zhi-nan/ru-he-she-zhi-mei-yan-huo-xu-ni-bei-jing.md)
   * [如何把视频设置为虚拟背景？](shi-yong-zhi-nan/ru-he-ba-shi-pin-she-zhi-wei-xu-ni-bei-jing.md)
   * [如何共享电脑屏幕或应用？](shi-yong-zhi-nan/ru-he-gong-xiang-dian-nao-ping-mu-huo-ying-yong.md)
+  * [如何用CamIn在小红书做直播？](shi-yong-zhi-nan/ru-he-yong-camin-zai-xiao-hong-shu-zuo-zhi-bo.md)
   * [如何剪辑录制好的视频？](shi-yong-zhi-nan/ru-he-jian-ji-lu-zhi-hao-de-shi-pin.md)
   * [如何在 ClassIn 中使用 CamIn?](shi-yong-zhi-nan/ru-he-zai-classin-zhong-shi-yong-camin/README.md)
     * [如何在腾讯会议中使用 CamIn?](shi-yong-zhi-nan/ru-he-zai-classin-zhong-shi-yong-camin/ru-he-zai-teng-xun-hui-yi-zhong-shi-yong-camin.md)
