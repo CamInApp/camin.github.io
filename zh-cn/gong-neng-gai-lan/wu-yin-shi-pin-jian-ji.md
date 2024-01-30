@@ -26,4 +26,4 @@
 
 如不小心删错，可以通过撤销与重做，恢复错删的内容。
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
