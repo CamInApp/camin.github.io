@@ -2,19 +2,19 @@
 
 ### **1、获取推流码**
 
-进入小红书app，打开预直播页面，切换到 「电脑」 tab，如下图
+进入小红书app，打开预直播页面，切换到 「电脑」 tab，如下图：
 
 <figure><img src="../.gitbook/assets/xiaohongshu-1.png" alt=""><figcaption></figcaption></figure>
 
 ### **2.获取串流秘钥**
 
-打开 www.xiaohongshu.com/zhibo/obs ，输入上一步复制的6位数字，可以获取串流秘钥，复制这段密钥
+打开 www.xiaohongshu.com/zhibo/obs ，输入上一步复制的6位数字，可以获取串流秘钥，复制这段密钥。
 
 <figure><img src="../.gitbook/assets/xiaohongshu-2.png" alt=""><figcaption></figcaption></figure>
 
 ### 3. **开映推流配置**
 
-打开开映，点击直播，填写推流地址和推流密钥，填写后点击「开始直播」
+打开开映，点击直播，填写推流地址和推流密钥，填写后点击「开始直播」。
 
 推流地址: rtmp://live-push.xhscdn.com/live
 
@@ -24,11 +24,11 @@
 
 ### 4.手机端-进入直播
 
-预直播页 --> 点击「进入直播」 即可
+预直播页 --> 点击「进入直播」 即可。
 
 ### 5.结束直播
 
-先在手机端结束，然后再结束CamIn推流
+先在手机端结束，然后再结束CamIn推流。
 
 ### 注意事项
 
