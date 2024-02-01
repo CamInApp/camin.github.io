@@ -8,7 +8,7 @@
 
 ### **2.获取串流秘钥**
 
-打开 www.xiaohongshu.com/zhibo/obs ，输入上一步复制的6位数字，可以获取串流秘钥，复制这段密钥。
+打开 www.xiaohongshu.com/zhibo，点击「去OBS开播」，然后输入上一步复制的6位数字，可以获取串流秘钥，复制这段密钥。
 
 <figure><img src="../.gitbook/assets/xiaohongshu-2.png" alt=""><figcaption></figcaption></figure>
 
