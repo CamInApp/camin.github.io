@@ -1,4 +1,18 @@
-# 推流到视频号
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# 🎉 向微信视频号推流直播
 
 ## 在视频号创建直播
 

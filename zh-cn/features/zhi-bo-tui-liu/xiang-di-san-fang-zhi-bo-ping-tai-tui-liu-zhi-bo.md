@@ -1,4 +1,18 @@
-# 推流到第三方平台
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# 🤹 向第三方直播平台推流直播
 
 ## **功能介绍**
 
@@ -13,7 +27,7 @@
 
 #### 直播前设置
 
-在软件内通过添加通道、添加内容源设置摄像头参数等将编排直播内容。详细操作步骤可参阅 [yi-tian-jia-yan-shi-wen-jian](../yi-tian-jia-yan-shi-wen-jian/ "mention")
+在软件内通过添加通道、添加内容源设置摄像头参数等将编排直播内容。详细操作步骤可参阅 [tian-jia-yan-shi-wen-jian.md](../tian-jia-yan-shi-wen-jian.md "mention")
 
 #### 配置推流地址
 

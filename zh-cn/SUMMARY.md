@@ -14,18 +14,17 @@
 * [如何在 ClassIn 中使用 CamIn?](shi-yong-zhi-nan/ru-he-zai-classin-zhong-shi-yong-camin.md)
 * [如何在腾讯会议中使用 CamIn?](shi-yong-zhi-nan/ru-he-zai-teng-xun-hui-yi-zhong-shi-yong-camin.md)
 
-***
+## 🚀 功能概览 <a href="#features" id="features"></a>
 
-* [功能概览](gong-neng-gai-lan/README.md)
-  * [一、添加演示文件](gong-neng-gai-lan/yi-tian-jia-yan-shi-wen-jian/README.md)
-  * [二、共享屏幕](gong-neng-gai-lan/er-gong-xiang-ping-mu.md)
-  * [三、人像美颜](gong-neng-gai-lan/san-ren-xiang-mei-yan.md)
-  * [四、高清录制、涂鸦标记](gong-neng-gai-lan/si-gao-qing-lu-zhi-tu-ya-biao-ji.md)
-  * [五、视频剪辑](gong-neng-gai-lan/wu-yin-shi-pin-jian-ji.md)
-  * [六、视频保存、一键分享](gong-neng-gai-lan/liu-ben-di-bao-cun-yun-duan-fa-bu-yi-jian-fen-xiang-guan-kan.md)
-  * [直播推流](gong-neng-gai-lan/zhi-bo-tui-liu/README.md)
-    * [推流到第三方平台](gong-neng-gai-lan/zhi-bo-tui-liu/tui-liu-dao-di-san-fang-ping-tai.md)
-    * [推流到视频号](gong-neng-gai-lan/zhi-bo-tui-liu/tui-liu-dao-shi-pin-hao.md)
+* [🗃️ 添加演示文件](features/tian-jia-yan-shi-wen-jian.md)
+* [🖥️ 共享电脑桌面或应用](features/gong-xiang-dian-nao-zhuo-mian-huo-ying-yong.md)
+* [💄 人像美颜/虚拟背景/贴纸](features/ren-xiang-mei-yan-xu-ni-bei-jing-tie-zhi.md)
+* [📹 开始录制/画笔辅助讲解](features/kai-shi-lu-zhi-hua-bi-fu-zhu-jiang-jie.md)
+* [✂️ 视频剪辑与调整](features/shi-pin-jian-ji-yu-tiao-zheng.md)
+* [💾 保存或分享视频](features/bao-cun-huo-fen-xiang-shi-pin.md)
+* [📺 直播推流](features/zhi-bo-tui-liu/README.md)
+  * [🤹 向第三方直播平台推流直播](features/zhi-bo-tui-liu/xiang-di-san-fang-zhi-bo-ping-tai-tui-liu-zhi-bo.md)
+  * [🎉 向微信视频号推流直播](features/zhi-bo-tui-liu/xiang-wei-xin-shi-pin-hao-tui-liu-zhi-bo.md)
 
 ## 🛟 常见问题 <a href="#fa-q" id="fa-q"></a>
 

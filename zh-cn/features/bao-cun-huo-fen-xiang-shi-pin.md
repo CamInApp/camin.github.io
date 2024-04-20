@@ -1,4 +1,18 @@
-# 六、视频保存、一键分享
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# 💾 保存或分享视频
 
 ## 本地保存
 

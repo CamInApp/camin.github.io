@@ -1,4 +1,18 @@
-# 三、人像美颜
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# 💄 人像美颜/虚拟背景/贴纸
 
 ## 添加人像
 

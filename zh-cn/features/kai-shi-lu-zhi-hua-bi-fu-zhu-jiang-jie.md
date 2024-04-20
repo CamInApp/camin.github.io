@@ -1,4 +1,18 @@
-# 四、高清录制、涂鸦标记
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# 📹 开始录制/画笔辅助讲解
 
 ## 开始录制
 
