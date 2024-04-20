@@ -41,3 +41,8 @@
 
 * [🔔 更新日志](geng-xin-ri-zhi.md)
 * [📞 联系我们](lian-xi-wo-men.md)
+
+## 📃 服务协议 <a href="#policy" id="policy"></a>
+
+* [🔐 隐私政策](policy/yin-si-zheng-ce.md)
+* [👤 用户协议](policy/yong-hu-xie-yi.md)
