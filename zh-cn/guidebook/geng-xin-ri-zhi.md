@@ -1,4 +1,18 @@
-# 更新日志
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# 🔔 更新日志
 
 ### CamIn v2.3.0.155
 

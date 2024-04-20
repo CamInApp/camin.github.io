@@ -26,4 +26,4 @@
 
 4\. 升级完成之后，重启 CamIn 即可正常使用。
 
-如果问题仍然存在，请加入[用户交流群](../lian-xi-wo-men.md#wen-ti-huo-jian-yi)反馈，我们第一时间解答。
+如果问题仍然存在，请加入[用户交流群](../guidebook/lian-xi-wo-men.md#wen-ti-huo-jian-yi)反馈，我们第一时间解答。
