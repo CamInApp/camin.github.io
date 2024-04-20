@@ -18,7 +18,7 @@ layout:
 
 请微信扫码关注「开映」公众号，或加入官方用户交流群与我们联系。
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 ### 合作
 
