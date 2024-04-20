@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# 如何录制 PPT 和人像同时出现的视频？
+# 🎬 如何录制 PPT 和人像同时出现的视频？
 
 ### 添加 PPT
 

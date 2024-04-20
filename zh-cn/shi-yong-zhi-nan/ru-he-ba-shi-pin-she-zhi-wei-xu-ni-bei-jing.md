@@ -1,4 +1,18 @@
-# 如何把视频设置为虚拟背景？
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# 😌 如何把视频设置为虚拟背景？
 
 ### 在背景通道添加视频
 

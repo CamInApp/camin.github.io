@@ -1,4 +1,18 @@
-# 如何在 ClassIn 中使用 CamIn?
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# 👨‍🏫 如何在 ClassIn 中使用 CamIn?
 
 ### 在 ClassIn 中使用 CamIn 虚拟摄像头
 

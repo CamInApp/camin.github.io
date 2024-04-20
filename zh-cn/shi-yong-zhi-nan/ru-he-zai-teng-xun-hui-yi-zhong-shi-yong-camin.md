@@ -1,4 +1,18 @@
-# 如何在腾讯会议中使用 CamIn?
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# 🤝 如何在腾讯会议中使用 CamIn?
 
 ### 在腾讯会议中使用 CamIn 虚拟摄像头
 

@@ -1,4 +1,18 @@
-# 如何设置美颜或虚拟背景？
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# 🧜‍♀️ 如何设置美颜或虚拟背景？
 
 ### 设置美颜
 
