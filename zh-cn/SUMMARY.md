@@ -13,8 +13,6 @@
 * [如何使用CamIn在小红书做直播？](shi-yong-zhi-nan/ru-he-shi-yong-camin-zai-xiao-hong-shu-zuo-zhi-bo.md)
 * [如何在 ClassIn 中使用 CamIn?](shi-yong-zhi-nan/ru-he-zai-classin-zhong-shi-yong-camin.md)
 * [如何在腾讯会议中使用 CamIn?](shi-yong-zhi-nan/ru-he-zai-teng-xun-hui-yi-zhong-shi-yong-camin.md)
-* [🔔 更新日志](geng-xin-ri-zhi.md)
-* [📞 联系我们](lian-xi-wo-men.md)
 
 ## 🛟 常见问题 <a href="#fa-q" id="fa-q"></a>
 
@@ -39,3 +37,5 @@
   * [直播推流](gong-neng-gai-lan/zhi-bo-tui-liu/README.md)
     * [推流到第三方平台](gong-neng-gai-lan/zhi-bo-tui-liu/tui-liu-dao-di-san-fang-ping-tai.md)
     * [推流到视频号](gong-neng-gai-lan/zhi-bo-tui-liu/tui-liu-dao-shi-pin-hao.md)
+* [🔔 更新日志](geng-xin-ri-zhi.md)
+* [📞 联系我们](lian-xi-wo-men.md)
