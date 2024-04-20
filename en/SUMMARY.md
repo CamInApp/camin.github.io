@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Help Center](README.md)
-* [Get Started](get-started/README.md)
+* [Get Started](README.md)
   * [What is CamIn?](get-started/what-is-camin.md)
   * [System Requirements](get-started/system-requirements.md)
   * [How to record a presentation video?](get-started/how-to-record-a-presentation-video.md)
