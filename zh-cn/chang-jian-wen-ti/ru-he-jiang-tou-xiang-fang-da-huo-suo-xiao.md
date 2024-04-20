@@ -1,4 +1,18 @@
-# 如何将头像放大或缩小？
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# 🧏‍♀️ 如何将头像放大或缩小？
 
 **方法1：**鼠标双击头像，即可将头像最大化，再次双击将头像还原；
 

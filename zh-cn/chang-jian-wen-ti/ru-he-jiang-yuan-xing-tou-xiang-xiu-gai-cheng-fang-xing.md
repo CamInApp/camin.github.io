@@ -1,4 +1,18 @@
-# 如何将圆形头像修改成方形？
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# 🙆‍♀️ 如何将圆形头像修改成方形？
 
 1. 鼠标滑动到人像，点击设置；
 2. 在展开的面板上选择方形或圆形切换摄像头形状。

@@ -1,4 +1,18 @@
-# 画笔太粗怎么办？
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# 😥 画笔太粗怎么办？
 
 ### **Windows 系统解决方法**
 

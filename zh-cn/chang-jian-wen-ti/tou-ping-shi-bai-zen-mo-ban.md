@@ -1,4 +1,18 @@
-# 投屏失败怎么办？
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# 😵 投屏失败怎么办？
 
 若显示投屏失败，首先检查网络，确保移动设备与电脑连接到同一个网络（局域网）。
 

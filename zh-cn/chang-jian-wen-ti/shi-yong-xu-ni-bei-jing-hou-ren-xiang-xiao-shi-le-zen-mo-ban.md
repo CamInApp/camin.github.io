@@ -1,4 +1,18 @@
-# 使用虚拟背景后人像消失了，怎么办？
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# 🤨 使用虚拟背景后人像消失了，怎么办？
 
 ### 排查步骤
 

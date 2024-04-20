@@ -1,4 +1,18 @@
-# Mac 版 CamIn 在ClassIn 中全黑怎么办？
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# 🐞 Mac 版 CamIn 在ClassIn 中全黑怎么办？
 
 1\. 退出 CamIn；
 
