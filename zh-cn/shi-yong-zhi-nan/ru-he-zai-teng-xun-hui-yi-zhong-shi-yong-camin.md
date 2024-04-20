@@ -5,7 +5,7 @@
 1. 在腾讯会议中，打开设置；
 2. 在设置中选择【视频】，摄像头选择【CamIn Virtual Camera】作为摄像头；
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>tmeeting_camerasetting</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>tmeeting_camerasetting</p></figcaption></figure>
 
 3. 打开 CamIn 即可开始使用。
 
