@@ -13,7 +13,7 @@
 * [📷 CamIn 开映在视频通话或会议中的应用](guidebook/camin-kai-ying-zai-shi-pin-tong-hua-huo-hui-yi-zhong-de-ying-yong/README.md)
   * [👨‍🏫 在 ClassIn 中使用开映虚拟摄像头](guidebook/camin-kai-ying-zai-shi-pin-tong-hua-huo-hui-yi-zhong-de-ying-yong/zai-classin-zhong-shi-yong-kai-ying-xu-ni-she-xiang-tou.md)
   * [🤝 在腾讯会议中使用开映虚拟摄像头](guidebook/camin-kai-ying-zai-shi-pin-tong-hua-huo-hui-yi-zhong-de-ying-yong/zai-teng-xun-hui-yi-zhong-shi-yong-kai-ying-xu-ni-she-xiang-tou.md)
-  * [👽 在微信视频通话中使用开映虚拟摄像头](guidebook/camin-kai-ying-zai-shi-pin-tong-hua-huo-hui-yi-zhong-de-ying-yong/zai-wei-xin-shi-pin-tong-hua-zhong-shi-yong-kai-ying-xu-ni-she-xiang-tou.md)
+  * [👽 在微信视频中使用 CamIn 开映虚拟摄像头](guidebook/camin-kai-ying-zai-shi-pin-tong-hua-huo-hui-yi-zhong-de-ying-yong/zai-wei-xin-shi-pin-zhong-shi-yong-camin-kai-ying-xu-ni-she-xiang-tou.md)
   * [🕊️ 在 Zoom 中使用开映虚拟摄像头](guidebook/camin-kai-ying-zai-shi-pin-tong-hua-huo-hui-yi-zhong-de-ying-yong/zai-zoom-zhong-shi-yong-kai-ying-xu-ni-she-xiang-tou.md)
 
 ## 🚀 功能概览 <a href="#features" id="features"></a>
