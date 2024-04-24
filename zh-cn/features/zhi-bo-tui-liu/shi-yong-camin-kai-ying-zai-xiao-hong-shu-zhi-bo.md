@@ -12,24 +12,24 @@ layout:
     visible: true
 ---
 
-# 📕 如何使用 CamIn 开映在小红书做直播？
+# 📕 使用 CamIn 开映在小红书直播
 
 ### 1. **获取推流码**
 
 手机打开小红书 app，打开预直播页面，切换到 「电脑」 tab，如下图：
 
-<figure><img src="../.gitbook/assets/xiaohongshu-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/xiaohongshu-1.png" alt=""><figcaption></figcaption></figure>
 
 ### **2. 获取串流秘钥**
 
 1. 打开 [小红书直播平台](https://www.xiaohongshu.com/zhibo)，登录小红书账号。
 2. 点击**「去OBS开播」。**
 
-<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 3. 然后输入上一步复制的6位数字，可以获取串流秘钥，复制这段密钥。
 
-<figure><img src="../.gitbook/assets/xiaohongshu-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/xiaohongshu-2.png" alt=""><figcaption></figcaption></figure>
 
 ### 3. **开映推流配置**
 
@@ -39,7 +39,7 @@ layout:
 
 推流密钥：上一步输入验证码后生成的密钥
 
-<figure><img src="../.gitbook/assets/xiaohongshu-3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/xiaohongshu-3.png" alt=""><figcaption></figcaption></figure>
 
 ### 4. 手机端-进入直播
 
