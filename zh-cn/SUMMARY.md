@@ -11,9 +11,10 @@
 * [👨‍💻 如何共享电脑屏幕或应用？](shi-yong-zhi-nan/ru-he-gong-xiang-dian-nao-ping-mu-huo-ying-yong.md)
 * [✂️ 如何剪辑录制好的视频？](shi-yong-zhi-nan/ru-he-jian-ji-lu-zhi-hao-de-shi-pin.md)
 * [📷 CamIn 开映在视频通话或会议中的应用](guidebook/camin-kai-ying-zai-shi-pin-tong-hua-huo-hui-yi-zhong-de-ying-yong/README.md)
-  * [🤝 在腾讯会议中使用 CamIn 开映](shi-yong-zhi-nan/ru-he-zai-teng-xun-hui-yi-zhong-shi-yong-camin.md)
-  * [👨‍🏫 在 ClassIn 中使用 CamIn 开映](shi-yong-zhi-nan/ru-he-zai-classin-zhong-shi-yong-camin.md)
-  * [👽 在微信视频通话中使用 CamIn 开映](guidebook/camin-kai-ying-zai-shi-pin-tong-hua-huo-hui-yi-zhong-de-ying-yong/zai-wei-xin-shi-pin-tong-hua-zhong-shi-yong-camin-kai-ying.md)
+  * [👨‍🏫 在 ClassIn 中使用开映虚拟摄像头](guidebook/camin-kai-ying-zai-shi-pin-tong-hua-huo-hui-yi-zhong-de-ying-yong/zai-classin-zhong-shi-yong-kai-ying-xu-ni-she-xiang-tou.md)
+  * [🤝 在腾讯会议中使用开映虚拟摄像头](guidebook/camin-kai-ying-zai-shi-pin-tong-hua-huo-hui-yi-zhong-de-ying-yong/zai-teng-xun-hui-yi-zhong-shi-yong-kai-ying-xu-ni-she-xiang-tou.md)
+  * [👽 在微信视频通话中使用开映虚拟摄像头](guidebook/camin-kai-ying-zai-shi-pin-tong-hua-huo-hui-yi-zhong-de-ying-yong/zai-wei-xin-shi-pin-tong-hua-zhong-shi-yong-kai-ying-xu-ni-she-xiang-tou.md)
+  * [🕊️ 在 Zoom 中使用开映虚拟摄像头](guidebook/camin-kai-ying-zai-shi-pin-tong-hua-huo-hui-yi-zhong-de-ying-yong/zai-zoom-zhong-shi-yong-kai-ying-xu-ni-she-xiang-tou.md)
 
 ## 🚀 功能概览 <a href="#features" id="features"></a>
 
@@ -36,7 +37,7 @@
 
 * [🙆‍♀️ 如何将圆形头像修改成方形？](chang-jian-wen-ti/ru-he-jiang-yuan-xing-tou-xiang-xiu-gai-cheng-fang-xing.md)
 * [🧏‍♀️ 如何将头像放大或缩小？](chang-jian-wen-ti/ru-he-jiang-tou-xiang-fang-da-huo-suo-xiao.md)
-* [🐞 Mac 版 CamIn 在ClassIn 中全黑怎么办？](chang-jian-wen-ti/mac-ban-camin-zai-classin-zhong-quan-hei-zen-mo-ban.md)
+* [🐞 CamIn 在 ClassIn 中黑屏怎么办？](fa-q/camin-zai-classin-zhong-hei-ping-zen-mo-ban.md)
 * [😑 Mac 版 CamIn 启动时提示输入密码，后直接退出怎么办？](chang-jian-wen-ti/mac-ban-camin-qi-dong-shi-ti-shi-shu-ru-mi-ma-hou-zhi-jie-tui-chu-zen-mo-ban.md)
 * [😥 画笔太粗怎么办？](chang-jian-wen-ti/hua-bi-tai-cu-zen-mo-ban.md)
 * [🤨 使用虚拟背景后人像消失了，怎么办？](chang-jian-wen-ti/shi-yong-xu-ni-bei-jing-hou-ren-xiang-xiao-shi-le-zen-mo-ban.md)
