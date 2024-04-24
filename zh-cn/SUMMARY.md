@@ -11,8 +11,8 @@
 * [👨‍💻 如何共享电脑屏幕或应用？](shi-yong-zhi-nan/ru-he-gong-xiang-dian-nao-ping-mu-huo-ying-yong.md)
 * [✂️ 如何剪辑录制好的视频？](shi-yong-zhi-nan/ru-he-jian-ji-lu-zhi-hao-de-shi-pin.md)
 * [📷 CamIn 开映在视频通话或会议中的应用](guidebook/camin-kai-ying-zai-shi-pin-tong-hua-huo-hui-yi-zhong-de-ying-yong/README.md)
-  * [🤝 在腾讯会议中使用 CamIn 开映](guidebook/camin-kai-ying-zai-shi-pin-tong-hua-huo-hui-yi-zhong-de-ying-yong/zai-teng-xun-hui-yi-zhong-shi-yong-camin-kai-ying.md)
-  * [👨‍🏫 在 ClassIn 中使用 CamIn 开映](guidebook/camin-kai-ying-zai-shi-pin-tong-hua-huo-hui-yi-zhong-de-ying-yong/zai-classin-zhong-shi-yong-camin-kai-ying.md)
+  * [🤝 在腾讯会议中使用 CamIn 开映](shi-yong-zhi-nan/ru-he-zai-teng-xun-hui-yi-zhong-shi-yong-camin.md)
+  * [👨‍🏫 在 ClassIn 中使用 CamIn 开映](shi-yong-zhi-nan/ru-he-zai-classin-zhong-shi-yong-camin.md)
   * [👽 在微信视频通话中使用 CamIn 开映](guidebook/camin-kai-ying-zai-shi-pin-tong-hua-huo-hui-yi-zhong-de-ying-yong/zai-wei-xin-shi-pin-tong-hua-zhong-shi-yong-camin-kai-ying.md)
 
 ## 🚀 功能概览 <a href="#features" id="features"></a>
@@ -23,13 +23,13 @@
 * [💄 人像美颜/虚拟背景/贴纸](features/ren-xiang-mei-yan-xu-ni-bei-jing-tie-zhi.md)
 * [📹 开始录制/画笔辅助讲解](features/kai-shi-lu-zhi-hua-bi-fu-zhu-jiang-jie.md)
 * [✂️ 视频剪辑与调整](features/shi-pin-jian-ji-yu-tiao-zheng.md)
-* [💾 保存或分享视频](features/bao-cun-huo-fen-xiang-shi-pin/README.md)
+* [💾 保存或分享视频](features/bao-cun-huo-fen-xiang-shi-pin.md)
   * [⬇️ 下载云空间的视频](features/bao-cun-huo-fen-xiang-shi-pin/xia-zai-yun-kong-jian-de-shi-pin.md)
   * [🔃 上传本地视频](features/bao-cun-huo-fen-xiang-shi-pin/shang-chuan-ben-di-shi-pin.md)
   * [🔗 使用 CamIn 开映分享视频](features/bao-cun-huo-fen-xiang-shi-pin/shi-yong-camin-kai-ying-fen-xiang-shi-pin.md)
 * [📺 直播推流](features/zhi-bo-tui-liu/README.md)
-  * [🎉 使用 CamIn 开映在视频号直播](features/zhi-bo-tui-liu/shi-yong-camin-kai-ying-zai-shi-pin-hao-zhi-bo.md)
-  * [📕 使用 CamIn 开映在小红书直播](features/zhi-bo-tui-liu/shi-yong-camin-kai-ying-zai-xiao-hong-shu-zhi-bo.md)
+  * [🎉 使用 CamIn 开映在视频号直播](features/zhi-bo-tui-liu/xiang-wei-xin-shi-pin-hao-tui-liu-zhi-bo.md)
+  * [📕 使用 CamIn 开映在小红书直播](guidebook/ru-he-shi-yong-camin-kai-ying-zai-xiao-hong-shu-zuo-zhi-bo.md)
   * [🎵 使用 CamIn 开映在抖音直播](features/zhi-bo-tui-liu/shi-yong-camin-kai-ying-zai-dou-yin-zhi-bo.md)
 
 ## 🛟 常见问题 <a href="#fa-q" id="fa-q"></a>
