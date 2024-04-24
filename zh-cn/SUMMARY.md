@@ -38,10 +38,9 @@
 * [🙆‍♀️ 如何将圆形头像修改成方形？](chang-jian-wen-ti/ru-he-jiang-yuan-xing-tou-xiang-xiu-gai-cheng-fang-xing.md)
 * [🧏‍♀️ 如何将头像放大或缩小？](chang-jian-wen-ti/ru-he-jiang-tou-xiang-fang-da-huo-suo-xiao.md)
 * [🐞 CamIn 在 ClassIn 中黑屏怎么办？](fa-q/camin-zai-classin-zhong-hei-ping-zen-mo-ban.md)
-* [😑 Mac 版 CamIn 启动时提示输入密码，后直接退出怎么办？](chang-jian-wen-ti/mac-ban-camin-qi-dong-shi-ti-shi-shu-ru-mi-ma-hou-zhi-jie-tui-chu-zen-mo-ban.md)
+* [😑 Mac 版启动时提示输入密码，后直接退出怎么办？](fa-q/mac-ban-qi-dong-shi-ti-shi-shu-ru-mi-ma-hou-zhi-jie-tui-chu-zen-mo-ban.md)
 * [😥 画笔太粗怎么办？](chang-jian-wen-ti/hua-bi-tai-cu-zen-mo-ban.md)
 * [🤨 使用虚拟背景后人像消失了，怎么办？](chang-jian-wen-ti/shi-yong-xu-ni-bei-jing-hou-ren-xiang-xiao-shi-le-zen-mo-ban.md)
-* [👺 设置虚拟背景过程中总是闪退，怎么办？](chang-jian-wen-ti/she-zhi-xu-ni-bei-jing-guo-cheng-zhong-zong-shi-shan-tui-zen-mo-ban.md)
 * [😵 投屏失败怎么办？](chang-jian-wen-ti/tou-ping-shi-bai-zen-mo-ban.md)
 
 ***

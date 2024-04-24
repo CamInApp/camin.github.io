@@ -20,3 +20,7 @@ layout:
 <figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption><p>ClassIn_camerasetting</p></figcaption></figure>
 
 3. 打开 CamIn 即可开始使用。
+
+#### FAQ
+
+1. [CamIn 在 ClassIn 中黑屏怎么办？](../../fa-q/camin-zai-classin-zhong-hei-ping-zen-mo-ban.md)
