@@ -18,7 +18,7 @@ layout:
 
 手机打开小红书 app，打开预直播页面，切换到 「电脑」 tab，如下图：
 
-<figure><img src="../.gitbook/assets/xiaohongshu-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/xiaohongshu-1.png" alt="" width="186"><figcaption></figcaption></figure>
 
 ### **2. 获取串流秘钥**
 
@@ -47,13 +47,13 @@ layout:
 
 ### 5. 结束直播
 
-先在手机端结束，然后再结束CamIn推流。
+先在手机端结束，然后再结束 CamIn 推流。
 
 ### 注意事项
 
-1\. 首次使用CamIn在小红书直播时，建议先试播一次；
+1\. 首次使用 CamIn 在小红书直播时，建议先试播一次；
 
-2\. 一定要先在CamIn点「开始直播」，再在小红书里点「开始直播」；
+2\. 一定要先在 CamIn 点「开始直播」，再在小红书里点「开始直播」；
 
 3\. 手机端生成的6位数字验证码具有时效性，生成后请在12小时内利用数字验证码在「小红书电脑直播教程」 页面获取串流秘钥；
 

@@ -1,9 +1,8 @@
 # Table of contents
 
-* [🎥 CamIn 是什么？](README.md)
-
 ## 🔦 使用指南 <a href="#guidebook" id="guidebook"></a>
 
+* [🎥 CamIn 是什么？](README.md)
 * [💻 最低配置要求](shi-yong-zhi-nan/zui-di-pei-zhi-yao-qiu.md)
 * [🎬 如何录制 PPT 和人像同时出现的视频？](shi-yong-zhi-nan/ru-he-lu-zhi-ppt-he-ren-xiang-tong-shi-chu-xian-de-shi-pin.md)
 * [🧜‍♀️ 如何设置美颜或虚拟背景？](shi-yong-zhi-nan/ru-he-she-zhi-mei-yan-huo-xu-ni-bei-jing.md)
@@ -32,6 +31,10 @@
   * [🎉 使用 CamIn 开映在视频号直播](features/zhi-bo-tui-liu/xiang-wei-xin-shi-pin-hao-tui-liu-zhi-bo.md)
   * [📕 使用 CamIn 开映在小红书直播](guidebook/ru-he-shi-yong-camin-kai-ying-zai-xiao-hong-shu-zuo-zhi-bo.md)
   * [🎵 使用 CamIn 开映在抖音直播](features/zhi-bo-tui-liu/shi-yong-camin-kai-ying-zai-dou-yin-zhi-bo.md)
+
+## 🏆 账号与会员 <a href="#accountandbilling" id="accountandbilling"></a>
+
+* [🐼 账号设置](accountandbilling/basicinfo.md)
 
 ## 🛟 常见问题 <a href="#fa-q" id="fa-q"></a>
 

@@ -20,11 +20,11 @@ layout:
 
 2.首页点击【直播管理】-【直播间管理】，完善基础信息，再点击【创建】，进入直播配置界面。
 
-<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption><p>视频号创建直播</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 3. 在直播配置界面，可以看到【推流地址】和【推流密钥】，准备好这两部分信息，回到开映软件。需要注意：每创建一次直播间，推流地址更换一次。
 
-<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption><p>视频号直播配置</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
 ### 在开映中配置直播推流
 
@@ -32,7 +32,7 @@ layout:
 
 在软件工具栏点击【直播】。在打开的窗口中依次填写推流方案、推流地址和推流密钥。
 
-<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption><p>直播推流设置</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 * 推流方案：必填项，创建需要推送的平台名称（视频号），系统会自动保存；
 * 推流地址：必填项，回到视频号复制推流地址并粘贴到此处，注意检查格式。仅支持RTMP协议地址，格式错误时则会提示“请填写正确的RTMP地址”；‘
@@ -49,7 +49,7 @@ layout:
 ### 注意事项
 
 1. 推流到视频号需要获取推流地址和推流密钥。你需要先完成视频号认证才能获取直播推流相关信息。
-2. 视频号认证路径：微信——发现——视频号——右上角个人中心——我的视频号——我的视频号详情页——更多设置——认证。
+2. 视频号认证路径：微信—发现—视频号—右上角个人中心—我的视频号—我的视频号详情页—更多设置—认证。
 3. 当前仅支持向一个平台推流，暂时不支持同时向多个平台推流。
 4. 所有在右侧预览区域内容的画面，均会被直播推流。软件内的设置窗口、画笔面板等不会被推流，请放心使用。
 5. 直播过程中，无法切换推流平台，需要停止当前直播后，重新勾选推流平台并开启直播。

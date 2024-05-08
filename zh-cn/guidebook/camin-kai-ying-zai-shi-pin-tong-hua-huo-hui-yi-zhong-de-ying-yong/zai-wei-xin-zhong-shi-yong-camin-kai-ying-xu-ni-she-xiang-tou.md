@@ -16,13 +16,15 @@ layout:
 
 ### 选中 CamIn virtual camera
 
-在微信视频通话开始后，点击视频上面的切换摄像头按钮选择 CamIn virtual camera 即可，如下图所示：
+在微信视频通话开始后，鼠标滑动到切换摄像头按钮，选择 CamIn virtual camera 即可。如下图所示：
+
+<figure><img src="../../.gitbook/assets/image (24).png" alt="wechatcall" width="375"><figcaption></figcaption></figure>
 
 如果你的电脑上只有CamIn 开映虚拟摄像头。那么，在微信中开始视频通话后就会自动显示 CamIn 开映的虚拟摄像头画面。
 
 在微信中选择后，请打开CamIn 开映软件，即可正常使用。
 
-#### 横竖屏
+#### 横竖屏画面问题
 
 1. 如果通话对方是电脑版微信接听的，那么视频的画面是横屏显示的。
 2. 如果通话对方是手机版微信接听的，那么视频的画面是竖屏显示的。
