@@ -6,7 +6,7 @@
 2. Rename the folder(like camin1).
 3. Relaunch CamIn.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>screenshot 3</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>screenshot 3</p></figcaption></figure>
 
 ### For macOS
 
