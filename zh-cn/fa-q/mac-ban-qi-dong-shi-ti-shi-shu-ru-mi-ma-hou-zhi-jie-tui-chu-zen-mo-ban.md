@@ -24,6 +24,6 @@ layout:
 
 2. 删除文件夹下的classincam-mac-module.plugin文件链接（需要管理员权限输入密码）；
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. 再次重启 CamIn，重启时会提示输入管理员密码，直接输入后即可正常使用。

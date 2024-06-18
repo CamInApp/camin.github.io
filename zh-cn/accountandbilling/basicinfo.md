@@ -31,7 +31,7 @@ layout:
 1. 登录[ CamIn 开映官网](https://www.camin.cn)
 2. 点击右上角头像旁边的箭头，在打开的面板上点击「个人设置」
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="459"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt="" width="459"><figcaption></figcaption></figure>
 
 3. 在个人设置中即可修改昵称、头像或密码
 
