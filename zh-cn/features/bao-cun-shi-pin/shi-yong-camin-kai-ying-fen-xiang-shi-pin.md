@@ -16,7 +16,7 @@ layout:
 
 ### 使用网页链接分享视频
 
-1.  在 CamIn 开映客户端点击「我的视频」-点击「我的空间」 即可在浏览器打开云端视频存储空间。
+1.  在 CamIn 开映客户端点击「我的视频」-点击「我的空间」 ，或浏览器打开 [CamIn 开映官网](https://www.camin.cn/login)即可打开云端视频存储空间。
 
     <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 2.  找到你想要分享的视频即可分享快速分享视频。
