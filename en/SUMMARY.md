@@ -14,7 +14,7 @@
   * [How to live stream on YouTube using CamIn?](camin-features/how-to-live-stream-on-youtube-using-camin.md)
   * [Upload your video to CamIn](camin-features/upload-your-video-to-camin.md)
   * [Share a video](camin-features/share-a-video.md)
-  * [leave a comment](camin-features/leave-a-comment.md)
+  * [Leave a comment](camin-features/leave-a-comment.md)
 * [FAQ](faq/README.md)
   * [How to modify the round camera into a square one?](faq/how-to-modify-the-round-camera-into-a-square-one.md)
   * [How to zoom in or out the camera?](faq/how-to-zoom-in-or-out-the-camera.md)

@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# leave a comment
+# Leave a comment
 
 CamIn allows you and your audiance to leave a comment under the video. Comments and emojis make it easy to respond and react to a specific moment in a video as you watch it. This helps you be precise in your reactions.
 
