@@ -14,7 +14,7 @@ layout:
 
 # 🔗 使用 CamIn 开映分享视频
 
-使用网页链接分享视频
+### 使用网页链接分享视频
 
 1.  在 CamIn 开映客户端点击「我的视频」-点击「我的空间」 即可在浏览器打开云端视频存储空间。
 
@@ -30,8 +30,6 @@ layout:
 1.  微信搜索「开映小程序」或微信扫描下方二维码，你可以使用 CamIn 开映官网微信小程序分享视频。
 
     <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
-
-
 2.  打开微信小程序后，找到你想要分享的视频，右划即可分享视频。
 
     <figure><img src="../../.gitbook/assets/Frame 1707480662 (1).png" alt=""><figcaption></figcaption></figure>
