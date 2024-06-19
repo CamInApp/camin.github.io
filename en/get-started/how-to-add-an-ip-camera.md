@@ -26,6 +26,10 @@ By default, the fields are empty until an IP camera URL or IP addresses are ente
 
 
 
-All field are required. IP Camera URL is the actual address of your IP camera. The title is used only for your IP cameras list — you may give your camera any name you want.
+All field are required. IP Camera URL is the actual address of your IP camera. The title is used only for your IP cameras list — you may give your camera any title you want.
 
-### What CamIn supports
+### Acceptable URL
+
+IP camera URL starting with http, https, RTSP, RTMP are acceptable.
+
+Please note that CamIn does not provide IP camera URLs. To get the correct URL for your IP camera, contact the manufacturer or supplier of the IP camera directly.
