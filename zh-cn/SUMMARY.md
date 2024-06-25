@@ -3,16 +3,9 @@
 ## 🔦 使用指南 <a href="#guidebook" id="guidebook"></a>
 
 * [🎥 CamIn 是什么？](README.md)
-* [💻 最低配置要求](shi-yong-zhi-nan/zui-di-pei-zhi-yao-qiu.md)
-* [🎬 如何录制 PPT 和人像同时出现的视频？](shi-yong-zhi-nan/ru-he-lu-zhi-ppt-he-ren-xiang-tong-shi-chu-xian-de-shi-pin.md)
-* [🧜‍♀️ 如何设置美颜或虚拟背景？](shi-yong-zhi-nan/ru-he-she-zhi-mei-yan-huo-xu-ni-bei-jing.md)
-* [😌 如何把视频设置为虚拟背景？](shi-yong-zhi-nan/ru-he-ba-shi-pin-she-zhi-wei-xu-ni-bei-jing.md)
-* [✂️ 如何剪辑录制好的视频？](shi-yong-zhi-nan/ru-he-jian-ji-lu-zhi-hao-de-shi-pin.md)
-* [📷 CamIn 开映在视频通话或会议中的应用](guidebook/camin-kai-ying-zai-shi-pin-tong-hua-huo-hui-yi-zhong-de-ying-yong/README.md)
-  * [👨‍🏫 在 ClassIn 中使用开映虚拟摄像头](guidebook/camin-kai-ying-zai-shi-pin-tong-hua-huo-hui-yi-zhong-de-ying-yong/zai-classin-zhong-shi-yong-kai-ying-xu-ni-she-xiang-tou.md)
-  * [🤝 在腾讯会议中使用开映虚拟摄像头](guidebook/camin-kai-ying-zai-shi-pin-tong-hua-huo-hui-yi-zhong-de-ying-yong/zai-teng-xun-hui-yi-zhong-shi-yong-kai-ying-xu-ni-she-xiang-tou.md)
-  * [👽 在微信中使用 CamIn 开映虚拟摄像头](guidebook/camin-kai-ying-zai-shi-pin-tong-hua-huo-hui-yi-zhong-de-ying-yong/zai-wei-xin-zhong-shi-yong-camin-kai-ying-xu-ni-she-xiang-tou.md)
-  * [🕊️ 在 Zoom 中使用开映虚拟摄像头](guidebook/camin-kai-ying-zai-shi-pin-tong-hua-huo-hui-yi-zhong-de-ying-yong/zai-zoom-zhong-shi-yong-kai-ying-xu-ni-she-xiang-tou.md)
+* [💻 最低配置要求](guidebook/system-requirements.md)
+* [🖱️ 软件界面](guidebook/interface.md)
+* [🎬 如何录制 PPT 和人像同时出现的视频？](guidebook/how-to-record-a-presentation-video.md)
 
 ## 🚀 功能概览 <a href="#features" id="features"></a>
 
@@ -22,9 +15,12 @@
   * [📳 手机/平板投屏到 CamIn](features/tian-jia-yu-bian-ji-nei-rong-yuan/shou-ji-ping-ban-tou-ping-dao-camin.md)
   * [📷 将相机添加为摄像头](features/tian-jia-yu-bian-ji-nei-rong-yuan/jiang-xiang-ji-tian-jia-wei-she-xiang-tou.md)
   * [🎦 添加网络摄像头作为内容源](features/tian-jia-yu-bian-ji-nei-rong-yuan/tian-jia-wang-luo-she-xiang-tou-zuo-wei-nei-rong-yuan.md)
-* [💄 人像美颜/虚拟背景/贴纸](features/ren-xiang-mei-yan-xu-ni-bei-jing-tie-zhi.md)
-* [📹 开始录制/画笔辅助讲解](features/kai-shi-lu-zhi-hua-bi-fu-zhu-jiang-jie.md)
-* [✂️ 视频剪辑与调整](features/shi-pin-jian-ji-yu-tiao-zheng.md)
+* [💄 美颜/抠像](features/appearance/README.md)
+  * [🧜‍♀️ 如何设置美颜或虚拟背景？](features/appearance/how-to-set-touch-up-and-virtual-background.md)
+  * [😌 如何把视频设置为虚拟背景？](features/appearance/how-to-set-a-video-as-virtual-background.md)
+* [📹 录制视频](features/lu-zhi-shi-pin.md)
+* [✂️ 视频剪辑与调整](features/shi-pin-jian-ji-yu-tiao-zheng/README.md)
+  * [✂️ 如何剪辑录制好的视频？](features/shi-pin-jian-ji-yu-tiao-zheng/ru-he-jian-ji-lu-zhi-hao-de-shi-pin.md)
 * [💾 保存视频](features/bao-cun-shi-pin/README.md)
   * [⬇️ 下载云空间的视频](features/bao-cun-shi-pin/xia-zai-yun-kong-jian-de-shi-pin.md)
   * [🔃 上传视频到云空间](features/bao-cun-shi-pin/shang-chuan-shi-pin-dao-yun-kong-jian.md)
@@ -34,6 +30,11 @@
   * [🎉 使用 CamIn 开映在视频号直播](features/zhi-bo-tui-liu/xiang-wei-xin-shi-pin-hao-tui-liu-zhi-bo.md)
   * [📕 使用 CamIn 开映在小红书直播](guidebook/ru-he-shi-yong-camin-kai-ying-zai-xiao-hong-shu-zuo-zhi-bo.md)
   * [🎵 使用 CamIn 开映在抖音直播](features/zhi-bo-tui-liu/shi-yong-camin-kai-ying-zai-dou-yin-zhi-bo.md)
+* [📷 虚拟摄像头](features/camin-virtual-camera/README.md)
+  * [👨‍🏫 在 ClassIn 中使用开映虚拟摄像头](features/camin-virtual-camera/how-to-use-camin-virtual-camera-in-classin.md)
+  * [🤝 在腾讯会议中使用开映虚拟摄像头](features/camin-virtual-camera/how-to-use-camin-virtual-camera-in-tencent.md)
+  * [👽 在微信中使用 CamIn 开映虚拟摄像头](features/camin-virtual-camera/zai-wei-xin-zhong-shi-yong-camin-kai-ying-xu-ni-she-xiang-tou.md)
+  * [🕊️ 在 Zoom 中使用开映虚拟摄像头](features/camin-virtual-camera/zai-zoom-zhong-shi-yong-kai-ying-xu-ni-she-xiang-tou.md)
 
 ## 🏆 账号与会员 <a href="#accountandbilling" id="accountandbilling"></a>
 
@@ -44,6 +45,8 @@
 
 ## 🛟 常见问题 <a href="#fa-q" id="fa-q"></a>
 
+* [视频上传后，播放卡顿怎么办？](fa-q/shi-pin-shang-chuan-hou-bo-fang-ka-dun-zen-me-ban.md)
+* [PPT 上传失败怎么办？](fa-q/ppt-shang-chuan-shi-bai-zen-me-ban.md)
 * [😵 投屏失败怎么办？](chang-jian-wen-ti/tou-ping-shi-bai-zen-mo-ban.md)
 * [🤨 使用虚拟背景后人像消失了，怎么办？](chang-jian-wen-ti/shi-yong-xu-ni-bei-jing-hou-ren-xiang-xiao-shi-le-zen-mo-ban.md)
 * [🙆‍♀️ 如何将圆形头像修改成方形？](chang-jian-wen-ti/ru-he-jiang-yuan-xing-tou-xiang-xiu-gai-cheng-fang-xing.md)
