@@ -18,11 +18,11 @@ layout:
 
 **方法1：**点击选中文档内容区，点击右侧【+】号或文档内容区内的【添加内容源】，在打开的窗口中选择【从本地选择】，选择你要添加 PPT。
 
-<figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;**方法2：**点击【新建内容区】，在打开的窗口中选择【本地文件】
 
-<figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
 注意：
 
@@ -35,13 +35,13 @@ layout:
 
 CamIn 提供默认背景。可以在【背景内容区】切换选择使用，也可以在背景通道点击【添加内容源】添加自定义背景。支持比例为16:9，大小不超过20M的JPG、JPEG 或 PNG 图片。 同时，新版本支持从在线内容区选择背景。在【背景内容区】点击【+】，选择【在线媒体库】即可浏览适用在线背景。
 
-<figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
 
 #### 调整人像效果
 
 鼠标移动到人像区域，点击【设置】按钮。在展开的面板中调整人像特效。可以设置人像的形状、背景抠像、美颜或贴纸。注意：设置特效要求较高硬件配置，如果出现卡顿情况，请适当关闭特效。&#x20;
 
-<figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
 
 #### **布局调整**
 
@@ -53,10 +53,10 @@ CamIn 提供默认背景。可以在【背景内容区】切换选择使用，�
 
 1.  **PPT翻页**：鼠标移动到PPT上，点击左箭头向上翻页、或点击右键头向下翻页；如果PPT中包括动画，在PPT画面上单击鼠标或按键盘空格会依次播放动画并翻页。
 
-    <figure><img src="../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 2.  **PPT跳页：**在应用界面的左侧找到演示文档，点击展开按钮，即可展开PPT全部页面。单击某个页面即可跳页。
 
-    <figure><img src="../../.gitbook/assets/2024-06-27 11.24.31.gif" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/2024-06-27 11.24.31.gif" alt=""><figcaption></figcaption></figure>
 
 ### 录制视频
 
