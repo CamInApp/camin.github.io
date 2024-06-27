@@ -5,7 +5,8 @@
 * [🎥 CamIn 是什么？](README.md)
 * [💻 最低配置要求](guidebook/system-requirements.md)
 * [🖱️ 软件界面与设置](guidebook/interface.md)
-* [🎬 如何录制 PPT 和人像同时出现的视频？](guidebook/how-to-record-a-presentation-video.md)
+* [🎬 录制 PPT 和人像同屏的视频（3.0版本适用）](guidebook/how-to-record-a-presentation-video/README.md)
+  * [🎬 如何录制 PPT 和人像同屏的视频（2.0版本适用）？](guidebook/how-to-record-a-presentation-video/how-to-record-a-presentation-video.md)
 
 ## 🚀 功能概览 <a href="#features" id="features"></a>
 
