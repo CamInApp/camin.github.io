@@ -20,17 +20,19 @@ layout:
 
 点击「新建内容区」或在任意内容区右侧点击「+」，在出现的面板上选择「网络摄像头」-「添加网络摄像头」即可向 CamIn 添加网络摄像头
 
-
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### 网络摄像头地址
 
 &#x20;添加网络摄像头面板全部字段均为必填。其中，网络摄像头地址是你设备的真实链接。名称仅用作网络摄像头列表识别使用，你可以根据情况适当命名。
 
-
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### CamIn 支持的协议
 
 CamIn 开映支持以http、https、RTSP、RTMP打头的网络摄像头地址，其他协议的地址目前暂不支持。
 
+{% hint style="info" %}
 请注意，CamIn 开映不提供任何网络摄像头地址。请联系网络摄像头的设备制造商或服务商获取正确的网络摄像头地址。
+{% endhint %}
 
