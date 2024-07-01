@@ -17,7 +17,6 @@
   * [📷 将相机添加为摄像头](features/tian-jia-yu-bian-ji-nei-rong-yuan/jiang-xiang-ji-tian-jia-wei-she-xiang-tou.md)
   * [🎦 添加网络摄像头作为内容源](features/tian-jia-yu-bian-ji-nei-rong-yuan/tian-jia-wang-luo-she-xiang-tou-zuo-wei-nei-rong-yuan.md)
 * [💄 美颜/抠像](features/appearance/README.md)
-  * [🧜‍♀️ 如何设置美颜或虚拟背景？](features/appearance/how-to-set-touch-up-and-virtual-background.md)
   * [😌 如何把视频设置为虚拟背景？](features/appearance/how-to-set-a-video-as-virtual-background.md)
 * [📹 录制视频](features/lu-zhi-shi-pin.md)
 * [✂️ 视频剪辑与调整](features/shi-pin-jian-ji-yu-tiao-zheng/ru-he-jian-ji-lu-zhi-hao-de-shi-pin.md)

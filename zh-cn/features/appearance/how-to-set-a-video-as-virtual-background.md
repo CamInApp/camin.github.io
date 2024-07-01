@@ -16,7 +16,7 @@ layout:
 
 ### 在背景通道添加视频
 
-将视频添加到背景通道并选中，然后设置视频【循环播放】；此时你便得到了视频动态背景。
+将视频添加到背景内容区并选中，然后设置视频【循环播放】；此时你便得到了视频动态背景。
 
 <figure><img src="../../.gitbook/assets/Background_vdieo.gif" alt=""><figcaption></figcaption></figure>
 
