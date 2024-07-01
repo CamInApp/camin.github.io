@@ -44,4 +44,4 @@ layout:
 | 云空间视频个数    | 10 个 | 无限制        |
 | 云空间容量      | 5G   | 100G       |
 
-4. 为保证视频正常流畅地播放，上传视频之前，请尽量将视频进行压缩处理，适当调整分辨率、视频码率或视频帧率。
+4. 为保证视频正常流畅地播放，上传视频之前，请尽量将视频进行压缩处理，适当调整分辨率、视频码率或视频帧率。详细操作方法请见👉 [shi-pin-shang-chuan-hou-bo-fang-ka-dun-zen-me-ban.md](../../fa-q/shi-pin-shang-chuan-hou-bo-fang-ka-dun-zen-me-ban.md "mention")

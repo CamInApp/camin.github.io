@@ -39,9 +39,7 @@
 ## 🏆 账号与会员 <a href="#accountandbilling" id="accountandbilling"></a>
 
 * [🐼 账号设置](accountandbilling/basicinfo.md)
-* [🌟 会员与权益介绍](accountandbilling/hui-yuan-yu-quan-yi-jie-shao/README.md)
-  * [如何申请退款？](accountandbilling/hui-yuan-yu-quan-yi-jie-shao/ru-he-shen-qing-tui-kuan.md)
-  * [我已购买会员，怎么开发票？](accountandbilling/hui-yuan-yu-quan-yi-jie-shao/wo-yi-gou-mai-hui-yuan-zen-mo-kai-fa-piao.md)
+* [🌟 会员与权益介绍](accountandbilling/membership-and-benifits.md)
 
 ## 🛟 常见问题 <a href="#fa-q" id="fa-q"></a>
 
