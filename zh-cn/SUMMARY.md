@@ -39,7 +39,7 @@
 ## 🏆 账号与会员 <a href="#accountandbilling" id="accountandbilling"></a>
 
 * [🐼 账号设置](accountandbilling/basicinfo.md)
-* [🌟 会员与权益介绍](accountandbilling/membership-and-benifits.md)
+* [🌟 会员与权益](accountandbilling/membership-and-benifits.md)
 
 ## 🛟 常见问题 <a href="#fa-q" id="fa-q"></a>
 
