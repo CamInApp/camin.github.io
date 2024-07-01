@@ -22,22 +22,22 @@ layout:
 
 方法2：使用【裁切】工具分割片段，再拖拽裁切头部或尾部删掉不用的片段。
 
-![camin功能介绍配图5-1](<../../.gitbook/assets/18 (1).png>)
+![camin功能介绍配图5-1](<../.gitbook/assets/18 (1).png>)
 
 ## 移动视频位置
 
 选中裁剪好的视频片段，点击【前移】或【后移】键可以调整视频位置。
 
-![camin功能介绍配图5-2](<../../.gitbook/assets/19 (1).png>)
+![camin功能介绍配图5-2](<../.gitbook/assets/19 (1).png>)
 
 ## 删除视频片段
 
 选中裁剪好的视频片段，点击【删除】键可以删掉该片段。
 
-![camin功能介绍配图5-3](<../../.gitbook/assets/20 (1).png>)
+![camin功能介绍配图5-3](<../.gitbook/assets/20 (1).png>)
 
 ## 撤销与重做[​](https://support.camin.cn/docs/features/how-to-trim-your-video%22%20/l%20%22%E6%92%A4%E9%94%80%E4%B8%8E%E9%87%8D%E5%81%9A%22%20/o%20%22%E6%92%A4%E9%94%80%E4%B8%8E%E9%87%8D%E5%81%9A%E7%9A%84%E7%9B%B4%E6%8E%A5%E9%93%BE%E6%8E%A5)
 
 如不小心删错，可以通过撤销与重做，恢复错删的内容。
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
