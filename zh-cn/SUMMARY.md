@@ -23,7 +23,7 @@
 * [💾 保存视频](features/bao-cun-shi-pin/README.md)
   * [⬇️ 下载云空间的视频](features/bao-cun-shi-pin/xia-zai-yun-kong-jian-de-shi-pin.md)
   * [🔃 上传视频到云空间](features/bao-cun-shi-pin/shang-chuan-shi-pin-dao-yun-kong-jian.md)
-  * [🔗 使用 CamIn 开映分享视频](features/bao-cun-shi-pin/shi-yong-camin-kai-ying-fen-xiang-shi-pin.md)
+* [🔗 使用 CamIn 开映分享视频](features/shi-yong-camin-kai-ying-fen-xiang-shi-pin.md)
 * [💌 视频评论与互动](features/shi-pin-ping-lun-yu-hu-dong.md)
 * [📺 直播推流](features/zhi-bo-tui-liu/README.md)
   * [🎉 使用 CamIn 开映在视频号直播](features/zhi-bo-tui-liu/xiang-wei-xin-shi-pin-hao-tui-liu-zhi-bo.md)
