@@ -16,7 +16,7 @@ layout:
 
 ### 问题或建议
 
-请微信扫码关注「开映」公众号，或加入官方用户交流群与我们联系。
+请微信扫码关注「CamIn开映」公众号，或加入官方用户交流群与我们联系。
 
 <figure><img src=".gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
