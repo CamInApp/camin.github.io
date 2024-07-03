@@ -42,7 +42,7 @@
 
 ## 🛟 常见问题 <a href="#fa-q" id="fa-q"></a>
 
-* [🥸 视频上传后，播放卡顿怎么办？](fa-q/shi-pin-shang-chuan-hou-bo-fang-ka-dun-zen-me-ban.md)
+* [🥸 视频播放卡顿怎么办？](fa-q/shi-pin-bo-fang-ka-dun-zen-me-ban.md)
 * [😵 投屏失败怎么办？](chang-jian-wen-ti/tou-ping-shi-bai-zen-mo-ban.md)
 * [🤨 使用虚拟背景后人像消失了，怎么办？](chang-jian-wen-ti/shi-yong-xu-ni-bei-jing-hou-ren-xiang-xiao-shi-le-zen-mo-ban.md)
 * [🙆‍♀️ 如何将圆形头像修改成方形？](chang-jian-wen-ti/ru-he-jiang-yuan-xing-tou-xiang-xiu-gai-cheng-fang-xing.md)
