@@ -40,21 +40,21 @@
 * [🐼 账号设置](accountandbilling/basicinfo.md)
 * [🌟 会员与权益](accountandbilling/membership-and-benifits.md)
 
-## 🛟 常见问题 <a href="#fa-q" id="fa-q"></a>
+## 🛟 常见问题 <a href="#faq" id="faq"></a>
 
-* [🥸 视频播放卡顿怎么办？](fa-q/shi-pin-bo-fang-ka-dun-zen-me-ban.md)
-* [😵 投屏失败怎么办？](chang-jian-wen-ti/tou-ping-shi-bai-zen-mo-ban.md)
-* [🤨 使用虚拟背景后人像消失了，怎么办？](chang-jian-wen-ti/shi-yong-xu-ni-bei-jing-hou-ren-xiang-xiao-shi-le-zen-mo-ban.md)
-* [🙆‍♀️ 如何将圆形头像修改成方形？](chang-jian-wen-ti/ru-he-jiang-yuan-xing-tou-xiang-xiu-gai-cheng-fang-xing.md)
-* [🧏‍♀️ 如何将头像放大或缩小？](chang-jian-wen-ti/ru-he-jiang-tou-xiang-fang-da-huo-suo-xiao.md)
-* [🐞 CamIn 在 ClassIn 中黑屏怎么办？](fa-q/camin-zai-classin-zhong-hei-ping-zen-mo-ban.md)
-* [😑 Mac 版启动时提示输入密码，后直接退出怎么办？](fa-q/mac-ban-qi-dong-shi-ti-shi-shu-ru-mi-ma-hou-zhi-jie-tui-chu-zen-mo-ban.md)
-* [😥 画笔太粗怎么办？](chang-jian-wen-ti/hua-bi-tai-cu-zen-mo-ban.md)
+* [🥸 视频播放卡顿怎么办？](faq/shi-pin-bo-fang-ka-dun-zen-me-ban.md)
+* [😵 投屏失败怎么办？](faq/tou-ping-shi-bai-zen-me-ban.md)
+* [🤨 使用虚拟背景后人像消失了，怎么办？](faq/shi-yong-xu-ni-bei-jing-hou-ren-xiang-xiao-shi-le-zen-me-ban.md)
+* [🙆‍♀️ 如何将圆形头像修改成方形？](faq/ru-he-jiang-yuan-xing-tou-xiang-xiu-gai-cheng-fang-xing.md)
+* [🧏‍♀️ 如何将头像放大或缩小？](faq/ru-he-jiang-tou-xiang-fang-da-huo-suo-xiao.md)
+* [🐞 CamIn 在 ClassIn 中黑屏怎么办？](faq/camin-zai-classin-zhong-hei-ping-zen-me-ban.md)
+* [😑 Mac 版启动时提示输入密码，后直接退出怎么办？](faq/mac-ban-qi-dong-shi-ti-shi-shu-ru-mi-ma-hou-zhi-jie-tui-chu-zen-me-ban.md)
+* [😥 画笔太粗怎么办？](faq/hua-bi-tai-cu-zen-me-ban.md)
 
 ***
 
-* [🔔 更新日志](geng-xin-ri-zhi.md)
-* [📞 联系我们](lian-xi-wo-men.md)
+* [🔔 更新日志](changelog.md)
+* [📞 联系我们](contactus.md)
 
 ## 📃 服务协议 <a href="#policy" id="policy"></a>
 

@@ -19,5 +19,5 @@ layout:
 <figure><img src="../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-请确保投屏设备和电脑连接到相同网络。如果发现无法投屏时，请尝试按照这个方法解决👉 [tou-ping-shi-bai-zen-mo-ban.md](../../chang-jian-wen-ti/tou-ping-shi-bai-zen-mo-ban.md "mention")
+请确保投屏设备和电脑连接到相同网络。如果发现无法投屏时，请尝试按照这个方法解决👉 [tou-ping-shi-bai-zen-me-ban.md](../../faq/tou-ping-shi-bai-zen-me-ban.md "mention")
 {% endhint %}
