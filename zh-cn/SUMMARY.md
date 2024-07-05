@@ -8,6 +8,10 @@
 * [🎬 录制 PPT 和人像同屏的视频（3.0版本适用）](guidebook/how-to-record-a-presentation-video.md)
   * [🎬 如何录制 PPT 和人像同屏的视频（2.0版本适用）？](guidebook/how-to-record-a-presentation-video/how-to-record-a-presentation-video.md)
 
+***
+
+* [🖥️ 视频操作教程](shi-pin-cao-zuo-jiao-cheng.md)
+
 ## 🚀 功能概览 <a href="#features" id="features"></a>
 
 * [🗃️ 添加与编辑内容源](features/tian-jia-yu-bian-ji-nei-rong-yuan/README.md)
