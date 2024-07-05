@@ -23,4 +23,4 @@ layout:
 
 #### FAQ
 
-1. [CamIn 在 ClassIn 中黑屏怎么办？](../../faq/camin-zai-classin-zhong-hei-ping-zen-me-ban.md)
+1. [CamIn 在 ClassIn 中黑屏怎么办？](../../faq/camin-zai-classin-zhong-hei-ping.md)

@@ -42,15 +42,15 @@
 
 ## 🛟 常见问题 <a href="#faq" id="faq"></a>
 
-* [🥸 视频播放卡顿怎么办？](faq/shi-pin-bo-fang-ka-dun-zen-me-ban.md)
-* [😵 投屏失败怎么办？](faq/tou-ping-shi-bai-zen-me-ban.md)
-* [🤨 使用虚拟背景后人像消失了，怎么办？](faq/shi-yong-xu-ni-bei-jing-hou-ren-xiang-xiao-shi-le-zen-me-ban.md)
+* [🥸 视频播放卡顿](faq/shi-pin-bo-fang-ka-dun.md)
+* [😵 投屏失败](faq/tou-ping-shi-bai.md)
+* [😏 PPT上传失败](faq/ppt-shang-chuan-shi-bai.md)
+* [😥 画笔太粗](faq/hua-bi-tai-cu.md)
+* [🤨 使用虚拟背景后人像消失](faq/shi-yong-xu-ni-bei-jing-hou-ren-xiang-xiao-shi.md)
+* [🐞 CamIn 在 ClassIn 中黑屏](faq/camin-zai-classin-zhong-hei-ping.md)
 * [🙆‍♀️ 如何将圆形头像修改成方形？](faq/ru-he-jiang-yuan-xing-tou-xiang-xiu-gai-cheng-fang-xing.md)
 * [🧏‍♀️ 如何将头像放大或缩小？](faq/ru-he-jiang-tou-xiang-fang-da-huo-suo-xiao.md)
-* [🐞 CamIn 在 ClassIn 中黑屏怎么办？](faq/camin-zai-classin-zhong-hei-ping-zen-me-ban.md)
-* [😑 Mac 版启动时提示输入密码，后直接退出怎么办？](faq/mac-ban-qi-dong-shi-ti-shi-shu-ru-mi-ma-hou-zhi-jie-tui-chu-zen-me-ban.md)
-* [😏 PPT上传失败](faq/ppt-shang-chuan-shi-bai.md)
-* [😥 画笔太粗怎么办？](faq/hua-bi-tai-cu-zen-me-ban.md)
+* [😑 Mac 版启动时提示输入密码后直接退出](faq/mac-ban-qi-dong-shi-ti-shi-shu-ru-mi-ma-hou-zhi-jie-tui-chu.md)
 
 ***
 

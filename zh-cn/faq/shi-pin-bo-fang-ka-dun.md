@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# 🥸 视频播放卡顿怎么办？
+# 🥸 视频播放卡顿
 
 CamIn 开映支持上传 .mp4和 .webm 两种格式的视频文件。如果播放视频时发现卡顿。请首先排除是否为网络问题所致。如果网络没有问题，建议通过如下方法将视频压缩之后再重新上传。一般卡顿问题都会解决。
 
@@ -39,5 +39,5 @@ CamIn 开映支持上传 .mp4和 .webm 两种格式的视频文件。如果播�
 <figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-如果按照以上设置导出视频后仍然出现播放卡顿的问题，请按照[【软件压缩视频】](shi-pin-bo-fang-ka-dun-zen-me-ban.md#tong-guo-ruan-jian-ya-suo-shi-pin)的方法处理再上传。
+如果按照以上设置导出视频后仍然出现播放卡顿的问题，请按照[【软件压缩视频】](shi-pin-bo-fang-ka-dun.md#tong-guo-ruan-jian-ya-suo-shi-pin)的方法处理再上传。
 {% endhint %}
