@@ -49,7 +49,7 @@
 * [🤨 使用虚拟背景后人像消失](faq/shi-yong-xu-ni-bei-jing-hou-ren-xiang-xiao-shi.md)
 * [🐞 CamIn 在 ClassIn 中黑屏](faq/camin-zai-classin-zhong-hei-ping.md)
 * [🙆‍♀️ 如何将圆形头像修改成方形？](faq/ru-he-jiang-yuan-xing-tou-xiang-xiu-gai-cheng-fang-xing.md)
-* [🧏‍♀️ 如何将头像放大或缩小？](faq/ru-he-jiang-tou-xiang-fang-da-huo-suo-xiao.md)
+* [🧏‍♀️ 头像如何放大或缩小？](faq/tou-xiang-ru-he-fang-da-huo-suo-xiao.md)
 * [😑 Mac 版启动时提示输入密码后直接退出](faq/mac-ban-qi-dong-shi-ti-shi-shu-ru-mi-ma-hou-zhi-jie-tui-chu.md)
 
 ***
