@@ -49,6 +49,7 @@
 * [🧏‍♀️ 如何将头像放大或缩小？](faq/ru-he-jiang-tou-xiang-fang-da-huo-suo-xiao.md)
 * [🐞 CamIn 在 ClassIn 中黑屏怎么办？](faq/camin-zai-classin-zhong-hei-ping-zen-me-ban.md)
 * [😑 Mac 版启动时提示输入密码，后直接退出怎么办？](faq/mac-ban-qi-dong-shi-ti-shi-shu-ru-mi-ma-hou-zhi-jie-tui-chu-zen-me-ban.md)
+* [😏 PPT上传失败](faq/ppt-shang-chuan-shi-bai.md)
 * [😥 画笔太粗怎么办？](faq/hua-bi-tai-cu-zen-me-ban.md)
 
 ***
