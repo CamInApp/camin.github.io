@@ -28,7 +28,7 @@ layout:
 
 #### 直播前设置
 
-在软件内通过添加通道、添加内容源设置摄像头参数等将编排直播内容。详细操作步骤可参阅 [tian-jia-yu-bian-ji-nei-rong-yuan](../tian-jia-yu-bian-ji-nei-rong-yuan/ "mention")
+在软件内通过添加通道、添加内容源设置摄像头参数等将编排直播内容。详细操作步骤可参阅 [add-edit-sources](../add-edit-sources/ "mention")
 
 #### 配置推流地址
 
