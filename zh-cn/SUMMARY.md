@@ -25,7 +25,7 @@
   * [🔃 上传视频到云空间](features/save-videos/upload-videos.md)
 * [🔗 使用 CamIn 开映分享视频](features/share-a-video.md)
 * [💌 视频评论与互动](features/comments.md)
-* [📺 直播推流](features/go-live/README.md)
+* [📺 多平台直播推流](features/go-live/README.md)
   * [🎉 使用 CamIn 开映向视频号直播](features/go-live/stream-to-channels.md)
   * [📕 使用 CamIn 开映向小红书直播](features/go-live/stream-to-xiaohongshu.md)
   * [🎵 使用 CamIn 开映向抖音直播](features/go-live/stream-to-douyin.md)

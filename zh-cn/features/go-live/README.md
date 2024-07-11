@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# 📺 直播推流
+# 📺 多平台直播推流
 
 ### **功能介绍**
 
@@ -20,9 +20,10 @@ layout:
 
 ### 使用条件
 
-1. CamIn 开映软件版本 2.8.0 或以上；
-2. 电脑系统需要 Windows 10 64位或以上，苹果电脑需要 macOS 10.15或以上
-3. 直播对硬件有一定要求，请使用电脑性能较好的机器开播。最低配置要求请见👉 [system-requirements.md](../../guidebook/system-requirements.md "mention")
+1. CamIn 开映软件版本 2.8.0 或以上
+2. 多平台同时直播推流版本需在3.1.0.82 或以上
+3. 电脑系统需要 Windows 10 64位或以上，苹果电脑需要 macOS 10.15或以上
+4. 直播对硬件有一定要求，请使用电脑性能较好的机器开播。最低配置要求请见👉 [system-requirements.md](../../guidebook/system-requirements.md "mention")
 
 ### RTMP推流操作步骤
 
@@ -32,11 +33,11 @@ layout:
 
 #### 配置推流地址
 
-在软件工具栏点击【直播】。在打开的窗口中依次填写推流方案、推流地址和推流密钥。
+在软件工具栏点击【直播推流】。在打开的窗口中点击【添加直播平台】 然后选择你想要的直播平台根据要求填写推流相关信息，添加直播平台后即可开始直播。
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption><p>直播推流设置</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
 
-* 推流方案：必填项，创建需要推送的平台名称，系统会自动保存；
+* 直播间名称：必填项，填写直播平台的昵称，系统会自动保存；
 * 推流地址：必填项，仅支持RTMP协议地址，格式错误时则会提示“请填写正确的RTMP地址”；
 * 推流密钥：必填项，设置推流密钥。
 
