@@ -30,7 +30,7 @@
   * [📕 使用 CamIn 开映向小红书直播](features/go-live/stream-to-xiaohongshu.md)
   * [🎵 使用 CamIn 开映向抖音直播](features/go-live/stream-to-douyin.md)
   * [🎥 使用 CamIn 开映向快手直播](features/go-live/stream-to-douyin-1.md)
-  * [📺 使用 CamIn 开映向哔哩哔哩-B站直播](features/go-live/shi-yong-camin-kai-ying-xiang-bi-li-bi-libzhan-zhi-bo.md)
+  * [📺 使用 CamIn 开映向B站直播](features/go-live/shi-yong-camin-kai-ying-xiangbzhan-zhi-bo.md)
   * [🎮 使用 CamIn 开映向 Twitch 直播](features/go-live/shi-yong-camin-kai-ying-xiang-twitch-zhi-bo.md)
   * [📍 通过RTMP方式向更多平台开播](features/go-live/tong-guo-rtmp-fang-shi-xiang-geng-duo-ping-tai-kai-bo.md)
 * [📷 虚拟摄像头](features/camin-virtual-camera/README.md)
