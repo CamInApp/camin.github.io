@@ -32,8 +32,8 @@
 * [📷 虚拟摄像头](features/camin-virtual-camera/README.md)
   * [👨‍🏫 在 ClassIn 中使用开映虚拟摄像头](features/camin-virtual-camera/how-to-use-camin-virtual-camera-in-classin.md)
   * [🤝 在腾讯会议中使用开映虚拟摄像头](features/camin-virtual-camera/how-to-use-camin-virtual-camera-in-tencent.md)
-  * [👽 在微信中使用 CamIn 开映虚拟摄像头](features/camin-virtual-camera/zai-wei-xin-zhong-shi-yong-camin-kai-ying-xu-ni-she-xiang-tou.md)
-  * [🕊️ 在 Zoom 中使用开映虚拟摄像头](features/camin-virtual-camera/zai-zoom-zhong-shi-yong-kai-ying-xu-ni-she-xiang-tou.md)
+  * [👽 在微信中使用 CamIn 开映虚拟摄像头](features/camin-virtual-camera/how-to-use-camin-in-wechat.md)
+  * [🕊️ 在 Zoom 中使用开映虚拟摄像头](features/camin-virtual-camera/how-to-use-camin-in-zoom.md)
 
 ## 🏆 账号与会员 <a href="#accountandbilling" id="accountandbilling"></a>
 
