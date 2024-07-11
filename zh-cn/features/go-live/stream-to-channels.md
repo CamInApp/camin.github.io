@@ -14,7 +14,9 @@ layout:
 
 # 🎉 使用 CamIn 开映在视频号直播
 
-### 在视频号创建直播
+### 通过RTMP推流开播
+
+#### 在视频号创建直播
 
 1.进入[视频号助手](https://channels.weixin.qq.com/login.html)，用管理员微信进行扫码登录。
 
@@ -26,7 +28,7 @@ layout:
 
 <figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
-### 在开映中配置直播推流
+#### 在开映中配置直播推流
 
 #### 配置推流地址
 
@@ -45,6 +47,24 @@ layout:
 #### 结束直播
 
 先在【视频号助手】点击【结束直播】，再回到开映点击【停止直播】，即可结束推流直播。否则线上直播间内用户会出现观看黑屏现象。
+
+### 通过虚拟摄像头开播
+
+此方法需要配合视频号直播工具使用。以下是详细方法：
+
+#### 添加摄像头
+
+在微信windows客户端点击左下角更多设置，下载并安装【视频号直播工具】，安装完成后打开。点击【摄像头】，见下图：
+
+<figure><img src="../../.gitbook/assets/添加摄像头.png" alt=""><figcaption></figcaption></figure>
+
+#### 选择 CamIn virtual camera 作为摄像头
+
+点击摄像头后，在打开的窗口中选择【CamIn virtual camera】作为摄像头，见下图：
+
+<figure><img src="../../.gitbook/assets/选择摄像头 camin.png" alt=""><figcaption></figcaption></figure>
+
+摄像头设置完成后，请打开 CamIn 开映软件进行操作即可。
 
 ### 注意事项
 
