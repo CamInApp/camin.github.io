@@ -6,7 +6,7 @@
 
 Hover 「Doc area」, click 「+」 and then click 「From Computer」 to add your document. You can also add other type of sources as follows: PPT, Word, PDF, Image, video, audio, etc.
 
-<figure><img src="../.gitbook/assets/CamIn Set up.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/CamIn Set up (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### Adjust layout
 
