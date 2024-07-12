@@ -12,7 +12,7 @@
 
 1.  Go back to CamIn, and click on the live streaming button on the right down corner.
 
-    <figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 2. Copy the stream URL from YouTube and paste it in to server
 3. Copy the stream key from YouTube and paste it in to Stream Key.
 4. Then start the stream with CamIn and back to YouTube. A watch page is now created for your stream, and you're now live on YouTube. Notifications will be sent and your stream will show up in subscriber feeds.

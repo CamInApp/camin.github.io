@@ -13,11 +13,12 @@
 
 ## features
 
-* [How to trim your video?](features/how-to-trim-your-video.md)
-* [Upload your video to CamIn](features/upload-your-video-to-camin.md)
-* [Share a video](features/share-a-video.md)
-* [Leave a comment](features/leave-a-comment.md)
-* [How to live stream on YouTube using CamIn?](features/how-to-live-stream-on-youtube-using-camin.md)
+* [How to trim your video?](camin-features/how-to-trim-your-video.md)
+* [Upload your video to CamIn](camin-features/upload-your-video-to-camin.md)
+* [Share a video](camin-features/share-a-video.md)
+* [Leave a comment](camin-features/leave-a-comment.md)
+* [Multi-Streaming](features/multi-streaming/README.md)
+  * [How to live stream on YouTube using CamIn?](features/multi-streaming/how-to-live-stream-on-youtube-using-camin.md)
 
 ## FAQ
 

@@ -31,7 +31,7 @@ With CamIn, you can record your camera, microphone, and presentations simultaneo
 * Simultaneous display of Camera and PPT;
 * Support adding various format content such as WORD/PDF/PPT;
 * Use paintbrush to assist in explanation and highlight key content with one stroke;
-* Quickly editing, you can check out [here.](../features/how-to-trim-your-video.md)
+* Quickly editing, you can check out [here.](../camin-features/how-to-trim-your-video.md)
 
 **Here are a few links to help get you on your way with CamIn:**
 
