@@ -32,7 +32,7 @@ layout:
 6. Then start the stream with CamIn and back to YouTube. A watch page is now created for your stream, and you're now live on YouTube. Notifications will be sent and your stream will show up in subscriber feeds.
 7. To end the stream, Click stop on CamIn. All streams under 12 hours will be automatically archived. You can find previous, current, and upcoming streams in the Live Tab on your YouTube Studio dashboard.
 
-### Please be noted
+### Requirements
 
 1. To live stream on YouTube, you need to have no [live streaming restrictions](https://support.google.com/youtube/answer/2853834) in the past 90 days and you need to [verify your channel](https://support.google.com/youtube/answer/171664).
 2. Learn more about live streaming on YouTube, [click here.](https://support.google.com/youtube/topic/9257891?hl=en\&ref\_topic=9257610)
