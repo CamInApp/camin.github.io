@@ -16,7 +16,7 @@
 * [Share a video](camin-features/share-a-video.md)
 * [Leave a comment](camin-features/leave-a-comment.md)
 * [Multi-streaming](features/multi-streaming/README.md)
-  * [Stream on Tiktok with CamIn](features/multi-streaming/stream-on-tiktok-with-camin.md)
+  * [Stream on TikTok with CamIn](features/multi-streaming/stream-on-tiktok-with-camin.md)
   * [Stream on YouTube with CamIn](features/multi-streaming/stream-on-youtube-with-camin.md)
   * [Stream on twitch with CamIn](features/multi-streaming/stream-on-twitch-with-camin.md)
   * [Stream on wechat's channels with CamIn](features/multi-streaming/stream-on-wechats-channels-with-camin.md)

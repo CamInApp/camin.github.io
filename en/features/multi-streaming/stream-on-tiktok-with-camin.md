@@ -12,9 +12,9 @@ layout:
     visible: true
 ---
 
-# Stream on Tiktok with CamIn
+# Stream on TikTok with CamIn
 
-### Connect to Tiktok <a href="#tong-guo-rtmp-tui-liu-kai-bo" id="tong-guo-rtmp-tui-liu-kai-bo"></a>
+### Connect to TikTok <a href="#tong-guo-rtmp-tui-liu-kai-bo" id="tong-guo-rtmp-tui-liu-kai-bo"></a>
 
 **Get stream server and stream key from TikTok mobile app**
 
