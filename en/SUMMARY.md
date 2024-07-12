@@ -18,7 +18,7 @@
 * [Upload your video to CamIn](camin-features/upload-your-video-to-camin.md)
 * [Share a video](camin-features/share-a-video.md)
 * [Leave a comment](camin-features/leave-a-comment.md)
-* [Multi-Streaming](features/multi-streaming/README.md)
+* [Multi-streaming](features/multi-streaming/README.md)
   * [How to live stream on YouTube using CamIn?](features/multi-streaming/how-to-live-stream-on-youtube-using-camin.md)
 
 ## FAQ
