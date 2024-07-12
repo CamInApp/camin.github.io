@@ -14,6 +14,22 @@ layout:
 
 # Changelog
 
+#### CamIn 3.1.0.62
+
+July 12, 2024
+
+**New**
+
+1. supports simultaneous broadcast to multiple platforms and channels at the same time
+2. Prompter supports to adjust the background transparency and font color
+3. Supports larger font size for text input
+4. Now you can click to bring an area to forward/Send to backward
+
+#### **Improvements**
+
+1. Optimized the problem of webcam streaming lagging.
+2. Performance optimization
+
 ### CamIn 3.0.1.162[​](https://support.camin.net/docs/change-log#camin-301162) <a href="#camin-301162" id="camin-301162"></a>
 
 July 3, 2024
