@@ -5,11 +5,8 @@
 * [What is CamIn?](README.md)
 * [System Requirements](get-started/system-requirements.md)
 * [How to record a presentation video?](get-started/how-to-record-a-presentation-video.md)
-* [How to Use a Virtual Camera on Video Conferences?](get-started/how-to-use-a-virtual-camera-on-video-conferences.md)
 * [How to set touch up and virtual background?](get-started/how-to-set-touch-up-and-virtual-background.md)
 * [How to set a video as virtual background?](get-started/how-to-set-a-video-as-virtual-background.md)
-* [How to use CamIn Virtual Camera in zoom?](get-started/how-to-use-camin-virtual-camera-in-zoom.md)
-* [How to use CamIn Virtual Camera in ClassIn?](get-started/how-to-use-camin-virtual-camera-in-classin.md)
 * [How to add an IP Camera?](get-started/how-to-add-an-ip-camera.md)
 
 ## features
@@ -20,6 +17,10 @@
 * [Leave a comment](camin-features/leave-a-comment.md)
 * [Multi-streaming](features/multi-streaming/README.md)
   * [How to live stream on YouTube using CamIn?](features/multi-streaming/how-to-live-stream-on-youtube-using-camin.md)
+* [CamIn virtual camera](features/camin-virtual-camera/README.md)
+  * [How to Use a Virtual Camera on Video Conferences?](features/camin-virtual-camera/how-to-use-a-virtual-camera-on-video-conferences.md)
+  * [How to use CamIn Virtual Camera in zoom?](features/camin-virtual-camera/how-to-use-camin-virtual-camera-in-zoom.md)
+  * [How to use CamIn Virtual Camera in ClassIn?](features/camin-virtual-camera/how-to-use-camin-virtual-camera-in-classin.md)
 
 ## FAQ
 

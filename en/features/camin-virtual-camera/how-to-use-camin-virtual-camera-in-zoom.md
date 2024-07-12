@@ -7,6 +7,6 @@ Open Zoom and then enter a video meeting;
 
 Please note that before using CamIn, make sure that your device has the camera correctly installed and connected.
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption><p>video_settings_zoom_en</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption><p>video_settings_zoom_en</p></figcaption></figure>
 
 The methods are also applicable to other video conferencing or online teching apps, such as Microsoft Teams, Google Meet, Zoom, WebEx and so on.
