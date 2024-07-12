@@ -18,7 +18,7 @@
 * [Multi-streaming](features/multi-streaming/README.md)
   * [Stream on TikTok with CamIn](features/multi-streaming/stream-on-tiktok-with-camin.md)
   * [Stream on YouTube with CamIn](features/multi-streaming/stream-on-youtube-with-camin.md)
-  * [Stream on twitch with CamIn](features/multi-streaming/stream-on-twitch-with-camin.md)
+  * [Stream on Twitch with CamIn](features/multi-streaming/stream-on-twitch-with-camin.md)
   * [Stream on wechat's channels with CamIn](features/multi-streaming/stream-on-wechats-channels-with-camin.md)
   * [Stream on xiaohongshu with CamIn](features/multi-streaming/stream-on-xiaohongshu-with-camin.md)
   * [Stream on douyin with CamIn](features/multi-streaming/stream-on-douyin-with-camin.md)
