@@ -1,15 +1,17 @@
 # Table of contents
 
-* [Get Started](README.md)
-  * [What is CamIn?](get-started/what-is-camin.md)
-  * [System Requirements](get-started/system-requirements.md)
-  * [How to record a presentation video?](get-started/how-to-record-a-presentation-video.md)
-  * [How to Use a Virtual Camera on Video Conferences?](get-started/how-to-use-a-virtual-camera-on-video-conferences.md)
-  * [How to set touch up and virtual background?](get-started/how-to-set-touch-up-and-virtual-background.md)
-  * [How to set a video as virtual background?](get-started/how-to-set-a-video-as-virtual-background.md)
-  * [How to use CamIn Virtual Camera in zoom?](get-started/how-to-use-camin-virtual-camera-in-zoom.md)
-  * [How to use CamIn Virtual Camera in ClassIn?](get-started/how-to-use-camin-virtual-camera-in-classin.md)
-  * [How to add an IP Camera?](get-started/how-to-add-an-ip-camera.md)
+## Get started
+
+* [Get](README.md)
+* [What is CamIn?](get-started/what-is-camin.md)
+* [System Requirements](get-started/system-requirements.md)
+* [How to record a presentation video?](get-started/how-to-record-a-presentation-video.md)
+* [How to Use a Virtual Camera on Video Conferences?](get-started/how-to-use-a-virtual-camera-on-video-conferences.md)
+* [How to set touch up and virtual background?](get-started/how-to-set-touch-up-and-virtual-background.md)
+* [How to set a video as virtual background?](get-started/how-to-set-a-video-as-virtual-background.md)
+* [How to use CamIn Virtual Camera in zoom?](get-started/how-to-use-camin-virtual-camera-in-zoom.md)
+* [How to use CamIn Virtual Camera in ClassIn?](get-started/how-to-use-camin-virtual-camera-in-classin.md)
+* [How to add an IP Camera?](get-started/how-to-add-an-ip-camera.md)
 
 ## features
 
