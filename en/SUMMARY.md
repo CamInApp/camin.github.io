@@ -10,12 +10,14 @@
   * [How to use CamIn Virtual Camera in zoom?](get-started/how-to-use-camin-virtual-camera-in-zoom.md)
   * [How to use CamIn Virtual Camera in ClassIn?](get-started/how-to-use-camin-virtual-camera-in-classin.md)
   * [How to add an IP Camera?](get-started/how-to-add-an-ip-camera.md)
-* [CamIn Features](camin-features/README.md)
-  * [How to trim your video?](camin-features/how-to-trim-your-video.md)
-  * [How to live stream on YouTube using CamIn?](camin-features/how-to-live-stream-on-youtube-using-camin.md)
-  * [Upload your video to CamIn](camin-features/upload-your-video-to-camin.md)
-  * [Share a video](camin-features/share-a-video.md)
-  * [Leave a comment](camin-features/leave-a-comment.md)
+
+## features
+
+* [How to trim your video?](features/how-to-trim-your-video.md)
+* [Upload your video to CamIn](features/upload-your-video-to-camin.md)
+* [Share a video](features/share-a-video.md)
+* [Leave a comment](features/leave-a-comment.md)
+* [How to live stream on YouTube using CamIn?](features/how-to-live-stream-on-youtube-using-camin.md)
 
 ## FAQ
 
