@@ -37,7 +37,7 @@ layout:
     4. Rate control: CBR
     5. FPS: max 60
     6. Keyframe Interval: 2 seconds
-    7. Preset: veryfast <-> medium
+    7. Preset: veryfast < - > medium
     8. Profile: Main/High
     9. Codec: H.264 (x264)
 
