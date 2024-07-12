@@ -1,53 +1,57 @@
 # How to record a presentation video?
 
-### Add PPT
+## File arrangement
 
-**Method 1:** Click on the doc channel, then click "Add Source" at the bottom of the app interface. In the pop-up window, choose 'From Computer' or "From Cloud Drive" (If your file are already in ClassIn's cloud drive) to add PPT or other supported files you want.
+### Upload files
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>steps_to_add_PPTs_en</p></figcaption></figure>
+Hover 「Doc area」, click 「+」 and then click 「From Computer」 to add your document. You can also add other type of sources as follows: PPT, Word, PDF, Image, video, audio, etc.
 
-### Adjust background, camera and layout
+<figure><img src="../.gitbook/assets/CamIn Set up.png" alt="" width="563"><figcaption></figcaption></figure>
 
-#### Background Settings
+### Adjust layout
 
-CamIn provides default backgrounds that you can use, or you can add your own background by clicking 'Add Source' in the 'Background Channel'. Supported image formats include JPG, JPEG, and PNG, with a ratio of 16:9 and a size of up to 20 MB.
+**Resize area window：**Hover and  move your mouse to the corner of an area on the preview window. Drag the blue dot to resize the window.
 
-#### Camera Settings
+**Maximize area window**：Maximize an area window by double click it, double click again to reset. You can also use the shortcut below.
 
-Click on "Settings" button when the mouse moves to the portrait area. In the expanded panel, adjust the portrait effects. You can set the Shape, Background, Touch Up or Sticker. \
-<mark style="color:red;">Note: setting camera effects requires higher hardware configuration. If there is a lag, please turn off effects appropriately.</mark>
+**Turn pages:** Click left/right arrow button or click on the area to turn pages.
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption><p>camera_settings_video_en</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Adjust layout.png" alt="" width="563"><figcaption></figcaption></figure>
 
-#### Adjust layout
+## Camera settings
 
-1. Adjust the size of the DOC: Move the mouse over the doc and then drag the blue dot to adjust the size.
-2. Adjust the position: Click and hold the mouse on the doc, and then move the mouse to adjust the position.
-3. Maximize the PPT: Double-click the doc can maximize the ppt, and double-click again to restore it.
+### Add camera
 
-### PPT page turning
+Add a camera by clicking 「+」 when hover an area.
 
-1. **Page turnning：**Move the mouse over the PPT and click the left arrow to go to the previous page or click the right arrow to go to the next page. If the PPT includes animations, clicking the mouse or pressing the spacebar on the keyboard while on the PPT page will play the animations in sequence and move to the next page.
+<figure><img src="../.gitbook/assets/Add camera.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption><p>Method_to_turn_pages</p></figcaption></figure>
+Click settings button to open camera settings panel and switch to 「Touch up」 tab to adjust appearance.
 
-1. **Page navigation：**First expand the doc by clicking on it, and then click the specific slide to quickly jump to and show it. If you wnat to go back, click on the return button.
+Click 「Backgrounds」 , select 「Transparent Background」 It will remove your background smoothly.&#x20;
 
-### Start recording
+<figure><img src="../.gitbook/assets/Transparent Background.png" alt="" width="310"><figcaption></figcaption></figure>
 
-1. **Start recording：**Click on the red button to start recording a video.
-2. **Stop recording：**Click the red button again to stop recording.
+## Brush, text, Teleprompter
 
-### Video editing
+Click 「Brush」 to draw; click 「T」 to input text; click 「Eraser」 to erase; click 「Clear」 to remove all drawings; click 「Undo」 or press Ctrl/Cmd+Z to undo the last step.
 
-You can edit the videos after recording, see the article 👉  [Video Editing](how-to-record-a-presentation-video.md#video-editting).
+Click 「Prompter」, enter or paste your script, and click 「Start」 in the bottom right corner to use the teleprompter. You can adjust the font size and speed as needed.
 
-### Shortcuts
+<figure><img src="../.gitbook/assets/Brush，text, Teleprompter.png" alt=""><figcaption></figcaption></figure>
 
-| Action                    | Windows | macOS    |
-| ------------------------- | ------- | -------- |
-| Start/Stop Recording      | Alt+R   | Option+R |
-| Previous Page/Next Page   |  ⬅️/➡️  |  ⬅️/➡️   |
-| Enable/Disable Paintbrush | Alt+B   | Option+B |
+## Video recording
 
-You can get more shortcuts by checking the settings panel in CamIn.
+_You can select the video resolution and frame rate in the lower right corner._
+
+Click 「Start Recording」 to start recording the video. Click 「Pause Recording」 to pause and enter the video editing window. In the editing window, click 「Continue」 to continue recording the video.
+
+<figure><img src="../.gitbook/assets/Video recording.png" alt=""><figcaption></figcaption></figure>
+
+After recording starts, you can pause at anytime and edit the content. Use the following editing tools for quick editing.
+
+## Video **editing**
+
+Click 「Split」 to cut the video into two clips. Click 「Delete」 to remove the selected clip. Click 「Move Forward」 or 「Move Backward」 to adjust the order of this clip. Use 「Undo」 and 「Redo」 to revert or restore the previous editing action.
+
+<figure><img src="../.gitbook/assets/Video editing (1).png" alt=""><figcaption></figcaption></figure>
