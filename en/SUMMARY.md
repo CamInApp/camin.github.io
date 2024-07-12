@@ -2,8 +2,7 @@
 
 ## Get started
 
-* [Get](README.md)
-* [What is CamIn?](get-started/what-is-camin.md)
+* [What is CamIn?](README.md)
 * [System Requirements](get-started/system-requirements.md)
 * [How to record a presentation video?](get-started/how-to-record-a-presentation-video.md)
 * [How to Use a Virtual Camera on Video Conferences?](get-started/how-to-use-a-virtual-camera-on-video-conferences.md)
