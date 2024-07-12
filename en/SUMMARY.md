@@ -16,16 +16,18 @@
   * [Upload your video to CamIn](camin-features/upload-your-video-to-camin.md)
   * [Share a video](camin-features/share-a-video.md)
   * [Leave a comment](camin-features/leave-a-comment.md)
-* [FAQ](faq/README.md)
-  * [How to modify the round camera into a square one?](faq/how-to-modify-the-round-camera-into-a-square-one.md)
-  * [How to zoom in or out the camera?](faq/how-to-zoom-in-or-out-the-camera.md)
-  * [\[Mac\] CamIn shows all black in ClassIn?](faq/mac-camin-shows-all-black-in-classin.md)
-  * [\[Mac\] It requires the password of system when launching CamIn?](faq/mac-it-requires-the-password-of-system-when-launching-camin.md)
-  * [How to solve paintbursh is too tick?](faq/how-to-solve-paintbursh-is-too-tick.md)
-  * [The avatar disappeared after setting a virtual background?](faq/the-avatar-disappeared-after-setting-a-virtual-background.md)
-  * [What to Do If Screen Mirroring Fails?](faq/what-to-do-if-screen-mirroring-fails.md)
+
+## FAQ
+
+* [How to modify the round camera into a square one?](faq/how-to-modify-the-round-camera-into-a-square-one.md)
+* [How to zoom in or out the camera?](faq/how-to-zoom-in-or-out-the-camera.md)
+* [\[Mac\] CamIn shows all black in ClassIn?](faq/mac-camin-shows-all-black-in-classin.md)
+* [How to solve paintbursh is too tick?](faq/how-to-solve-paintbursh-is-too-tick.md)
+* [\[Mac\] It requires the password of system when launching CamIn?](faq/mac-it-requires-the-password-of-system-when-launching-camin.md)
+* [The avatar disappeared after setting a virtual background?](faq/the-avatar-disappeared-after-setting-a-virtual-background.md)
+* [What to Do If Screen Mirroring Fails?](faq/what-to-do-if-screen-mirroring-fails.md)
+
+***
+
 * [Changelog](changelog.md)
 * [Contact Us](contact-us.md)
-* [CamIn's New Teleprompter Function: A Game-Changer for Video Creators](camins-new-teleprompter-function-a-game-changer-for-video-creators.md)
-* [How to embed a video in your email?](how-to-embed-a-video-in-your-email.md)
-* [How to Record Yourself Presenting a PowerPoint?](how-to-record-yourself-presenting-a-powerpoint.md)
