@@ -14,9 +14,9 @@ layout:
 
 # Changelog
 
-#### CamIn 3.1.0.62
+#### CamIn 3.1.0.65
 
-July 12, 2024
+July 15, 2024
 
 **New**
 
