@@ -18,7 +18,7 @@ layout:
 
 ### 使用网页上传视频
 
-浏览器登录[ CamIn 开映官网](https://www.camin.cn/login),点击页面右上角的「新建」按钮，选择「上传视频」即可。
+浏览器登录 [CamIn 开映官网](https://www.camin.cn),点击页面右上角的「新建」按钮，选择「上传视频」即可。
 
 <figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 

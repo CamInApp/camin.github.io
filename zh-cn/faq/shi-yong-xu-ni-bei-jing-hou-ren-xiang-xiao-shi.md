@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# 🤨 使用虚拟背景后人像消失了，怎么办？
+# 🤨 使用虚拟背景后人像消失
 
 ### 排查步骤
 
@@ -24,10 +24,10 @@ layout:
 
 ### 显卡驱动下载方法
 
-1\. Nvidia 显卡驱动更新地址：[Official Drivers | NVIDIA](https://txc.qq.com/products/426280/link-jump?jump=https%3A%2F%2Fwww.nvidia.com%2Fdownload%2Findex.aspx)
+1\. Nvidia 显卡驱动更新地址：[Official Drivers | NVIDIA](https://www.nvidia.com/download/index.aspx)
 
-2\. AMD 显卡驱动更新地址：[AMD 驱动程序与支持 | AMD](https://txc.qq.com/products/426280/link-jump?jump=https%3A%2F%2Fwww.amd.com%2Fzh-hans%2Fsupport)
+2\. AMD 显卡驱动更新地址：[AMD 驱动程序与支持 | AMD](https://www.amd.com/zh-hans/support)
 
-3\. intel 显卡驱动更新地址：[Search - Intel.com](https://txc.qq.com/products/426280/link-jump?jump=https%3A%2F%2Fwww.intel.sg%2Fcontent%2Fwww%2Fxa%2Fen%2Fsearch.html%23sort%3Drelevancy%26f%3A%40tabfilter%3D)
+3\. intel 显卡驱动更新地址：[Search - Intel.com](https://www.intel.sg/content/www/xa/en/search.html#sort=relevancy\&f:@tabfilter=)
 
 如果问题仍然存在，请加入[用户交流群](../contactus.md#wen-ti-huo-jian-yi)反馈，我们第一时间解答。
