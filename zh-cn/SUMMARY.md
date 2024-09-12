@@ -56,8 +56,8 @@
 * [🐞 CamIn 在 ClassIn 中黑屏](faq/camin-zai-classin-zhong-hei-ping.md)
 * [🙆‍♀️ 如何将圆形头像修改成方形？](faq/ru-he-jiang-yuan-xing-tou-xiang-xiu-gai-cheng-fang-xing.md)
 * [🧏‍♀️ 头像如何放大或缩小？](faq/tou-xiang-ru-he-fang-da-huo-suo-xiao.md)
-* [😻 CamIn可以免费体验专业版吗？](faq/camin-ke-yi-mian-fei-ti-yan-zhuan-ye-ban-ma.md)
-* [🤹 购买的会员到期后，加密分享的视频还能看吗？](faq/gou-mai-de-hui-yuan-dao-qi-hou-jia-mi-fen-xiang-de-shi-pin-hai-neng-kan-ma.md)
+* [😻 CamIn 可以免费体验专业版吗？](faq/camin-ke-yi-mian-fei-ti-yan-zhuan-ye-ban-ma.md)
+* [🤹 会员到期后，加密分享的视频还能看吗？](faq/hui-yuan-dao-qi-hou-jia-mi-fen-xiang-de-shi-pin-hai-neng-kan-ma.md)
 * [😑 Mac 版启动时提示输入密码后直接退出](faq/mac-ban-qi-dong-shi-ti-shi-shu-ru-mi-ma-hou-zhi-jie-tui-chu.md)
 
 ***
