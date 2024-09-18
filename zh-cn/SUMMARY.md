@@ -10,7 +10,7 @@
 
 ## 🚀 功能概览 <a href="#features" id="features"></a>
 
-* [🗃️ 添加与编辑内容源](features/add-edit-sources/README.md)
+* [🗃️ 添加与编辑素材](features/add-edit-sources/README.md)
   * [📄 文档类内容源](features/add-edit-sources/doc.md)
   * [🖥️ 共享电脑桌面或应用](features/add-edit-sources/sharing-screen.md)
   * [📳 手机/平板投屏到 CamIn](features/add-edit-sources/screen-mirroring.md)
