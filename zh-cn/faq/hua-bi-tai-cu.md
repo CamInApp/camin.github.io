@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# 😥 画笔太粗怎么办？
+# 😥 画笔太粗
 
 ### **Windows 系统解决方法**
 
@@ -20,7 +20,7 @@ layout:
 
 2\. 然后重启 CamIn。
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p> win-brush-screenshot</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p> win-brush-screenshot</p></figcaption></figure>
 
 ### **苹果电脑 macOS 解决方法**
 

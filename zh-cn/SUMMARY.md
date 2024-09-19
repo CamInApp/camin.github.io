@@ -47,7 +47,8 @@
 
 ## 🛟 常见问题 <a href="#faq" id="faq"></a>
 
-* [Mac 版本卸载摄像头](faq/mac-ban-ben-xie-zai-she-xiang-tou.md)
+* [Page](faq/page.md)
+* [苹果电脑安装/卸载 CamIn 虚拟摄像头](faq/ping-guo-dian-nao-an-zhuang-xie-zai-camin-xu-ni-she-xiang-tou.md)
 * [🥸 视频播放卡顿](faq/shi-pin-bo-fang-ka-dun.md)
 * [😵 投屏失败](faq/tou-ping-shi-bai.md)
 * [😏 PPT上传失败](faq/ppt-shang-chuan-shi-bai.md)

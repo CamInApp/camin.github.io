@@ -46,7 +46,7 @@ CamIn 提供默认背景。可以在【背景通道】切换选择使用，也�
 
 1.  **PPT翻页**：鼠标移动到PPT上，点击左箭头向上翻页、或点击右键头向下翻页；如果PPT中包括动画，在PPT画面上单击鼠标或按键盘空格会依次播放动画并翻页。
 
-    <figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 2. **PPT跳页：**在应用界面的下方找到演示文档，鼠标单击，即可展开PPT全部页面。单击某个页面即可跳页，点击左侧按钮即可返回。
 
 ### 录制视频
