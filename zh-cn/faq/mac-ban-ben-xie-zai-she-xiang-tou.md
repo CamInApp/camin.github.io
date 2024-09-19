@@ -29,9 +29,9 @@ layout:
 
 <figure><img src="../.gitbook/assets/企业微信截图_c1afb90b-0b74-49c2-9b0d-81c69be20d9c (1).png" alt=""><figcaption></figcaption></figure>
 
-2.  在打开的窗口上，点击允许即可。
+2. 在打开的窗口上，点击允许即可。
 
-    <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 #### macOS 15.0&#x20;
 
