@@ -23,7 +23,7 @@ layout:
 
 <figure><img src="../../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
 
-3. 当希沃课件进入全屏之后，点击左下角的「最小化」按钮，回到桌面。
+3. 当希沃课件进入全屏之后，点击左下角的「最小化」按钮，回到桌面。打开 CamIn 开映，或者使用或者快捷键 alt+tab 选择 CamIn。
 
 <figure><img src="../../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
 
