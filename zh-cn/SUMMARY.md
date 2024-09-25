@@ -7,6 +7,7 @@
 * [🖱️ 软件界面与设置](guidebook/interface.md)
 * [🎬 录制 PPT 和人像同屏的视频（3.0版本适用）](guidebook/how-to-record-a-presentation-video.md)
   * [🎬 如何录制 PPT 和人像同屏的视频（2.0版本适用）？](guidebook/how-to-record-a-presentation-video/how-to-record-a-presentation-video.md)
+  * [使用CamIn 开映和希沃白板录制精品课](guidebook/how-to-record-a-presentation-video/shi-yong-camin-kai-ying-he-xi-wo-bai-ban-lu-zhi-jing-pin-ke.md)
 
 ## 🚀 功能概览 <a href="#features" id="features"></a>
 
