@@ -84,7 +84,7 @@ Set up any overlays or other sources you want to include in CamIn. For detailed 
 2. Choose “CamIn Virtual Camera”.
 3. Click “Go LIVE” to start your streaming.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Once the camera setup is complete, you can open CamIn to start live streaming.
 

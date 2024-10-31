@@ -26,6 +26,7 @@
 
 ## FAQ
 
+* [\[Mac\] How to install/uninstall CamIn virtual camera](faq/mac-how-to-install-uninstall-camin-virtual-camera.md)
 * [How to modify the round camera into a square one?](faq/how-to-modify-the-round-camera-into-a-square-one.md)
 * [How to zoom in or out the camera?](faq/how-to-zoom-in-or-out-the-camera.md)
 * [\[Mac\] CamIn shows all black in ClassIn?](faq/mac-camin-shows-all-black-in-classin.md)
