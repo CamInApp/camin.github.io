@@ -34,13 +34,17 @@ Alternatively, you can go to **Apple menu > System Settings > Privacy & Security
 
 **macOS 15.0**
 
-1. Install and open the software. A system prompt saying "CamIn wants to use a new camera extension" will appear. Click on "Open System Settings" in this prompt.
+1.  Install and open the software. A system prompt saying "CamIn wants to use a new camera extension" will appear. Click on "Open System Settings" in this prompt.
+
+    <figure><img src="../.gitbook/assets/Xnip2024-10-31_17-57-56.jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 If you clicked "OK" initially, you can still access the settings by going to **Apple menu > System Settings > General > Login Items & Extensions > Camera Extensions**.
 {% endhint %}
 
-2. In the settings window, toggle on CamIn.
+2.  In the settings window, toggle on CamIn.
+
+    <figure><img src="../.gitbook/assets/Xnip2024-10-31_17-58-51.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Uninstallation Instructions
 
