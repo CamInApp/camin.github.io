@@ -16,4 +16,4 @@ layout:
 
 浏览器登录 [CamIn 开映官网](https://www.camin.cn), 找到你想要下载到本地的视频。点击下载按钮，即可将视频下载到本地。
 
-<figure><img src="../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>

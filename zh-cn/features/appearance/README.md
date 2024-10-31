@@ -24,7 +24,7 @@ layout:
 
 单击人像，然后鼠标移动到应用界面下方的人像区域，点击【设置】按钮。在展开的面板中调整人像特效。可以设置人像的形状、背景抠像、美颜或贴纸。
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 设置特效要求较高硬件配置，如果出现卡顿情况，请适当关闭特效。
@@ -34,7 +34,7 @@ layout:
 
 调整人像的大小：鼠标移动到调整对象上方后再拖动蓝色圆点，即可调整大小。
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 调整相对位置：在人像上【单击】鼠标不放，然后移动鼠标即可调整位置。
 

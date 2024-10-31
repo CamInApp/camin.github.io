@@ -23,7 +23,7 @@ layout:
 1. 将你想要讲解演示的内容源添加到 CamIn 开映软件中；
 2. 在你使用的视频软件中选择 \[CamIn virtual camera] 即可开始使用，你也可以通过 CamIn 开映灵活组织你的内容、添加特效等以实现更好的演示效果。
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 ### 支持添加的内容源
 

@@ -5,7 +5,7 @@
 * [🎥 CamIn 是什么？](README.md)
 * [💻 最低配置要求](guidebook/system-requirements.md)
 * [🖱️ 软件界面与设置](guidebook/interface.md)
-* [🎬 录制 PPT 和人像同屏的视频（3.0版本适用）](guidebook/how-to-record-a-presentation-video.md)
+* [🎬 录制 PPT 和人像同屏的视频（3.0版本适用）](guidebook/how-to-record-a-presentation-video/README.md)
   * [🎬 如何录制 PPT 和人像同屏的视频（2.0版本适用）？](guidebook/how-to-record-a-presentation-video/how-to-record-a-presentation-video.md)
   * [使用 CamIn 开映和希沃白板录制精品课](guidebook/how-to-record-a-presentation-video/shi-yong-camin-kai-ying-he-xi-wo-bai-ban-lu-zhi-jing-pin-ke.md)
 
@@ -38,8 +38,8 @@
 * [📷 虚拟摄像头](features/camin-virtual-camera/README.md)
   * [👨‍🏫 在 ClassIn 中使用开映虚拟摄像头](features/camin-virtual-camera/how-to-use-camin-virtual-camera-in-classin.md)
   * [🤝 在腾讯会议中使用开映虚拟摄像头](features/camin-virtual-camera/how-to-use-camin-virtual-camera-in-tencent.md)
-  * [👽 在微信中使用 CamIn 开映虚拟摄像头](features/camin-virtual-camera/zai-wei-xin-zhong-shi-yong-camin-kai-ying-xu-ni-she-xiang-tou.md)
-  * [🕊️ 在 Zoom 中使用开映虚拟摄像头](features/camin-virtual-camera/zai-zoom-zhong-shi-yong-kai-ying-xu-ni-she-xiang-tou.md)
+  * [👽 在微信中使用 CamIn 开映虚拟摄像头](features/camin-virtual-camera/how-to-use-camin-in-wechat.md)
+  * [🕊️ 在 Zoom 中使用开映虚拟摄像头](features/camin-virtual-camera/how-to-use-camin-in-zoom.md)
 
 ## 🏆 账号与会员 <a href="#accountandbilling" id="accountandbilling"></a>
 
@@ -49,7 +49,7 @@
 ## 🛟 常见问题 <a href="#faq" id="faq"></a>
 
 * [Page](faq/page.md)
-* [苹果电脑安装/卸载 CamIn 虚拟摄像头](faq/mac-ban-ben-xie-zai-she-xiang-tou.md)
+* [苹果电脑安装/卸载 CamIn 虚拟摄像头](faq/ping-guo-dian-nao-an-zhuang-xie-zai-camin-xu-ni-she-xiang-tou.md)
 * [🥸 视频播放卡顿](faq/shi-pin-bo-fang-ka-dun.md)
 * [😵 投屏失败](faq/tou-ping-shi-bai.md)
 * [😏 PPT上传失败](faq/ppt-shang-chuan-shi-bai.md)

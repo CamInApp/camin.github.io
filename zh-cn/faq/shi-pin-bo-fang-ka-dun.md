@@ -26,9 +26,9 @@ CamIn 开映支持上传 .mp4和 .webm 两种格式的视频文件。如果播�
 2. 源视频是720P的，请选择fast720P30，以此类推
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
 
 3. 压缩完成后再上传即可。
 
@@ -36,7 +36,7 @@ CamIn 开映支持上传 .mp4和 .webm 两种格式的视频文件。如果播�
 
 如果你的视频是通过剪辑软件编辑的，可以在导出视频之前按照如下参数（以剪映为例）设置后再导出。
 
-<figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 如果按照以上设置导出视频后仍然出现播放卡顿的问题，请按照[【软件压缩视频】](shi-pin-bo-fang-ka-dun.md#tong-guo-ruan-jian-ya-suo-shi-pin)的方法处理再上传。

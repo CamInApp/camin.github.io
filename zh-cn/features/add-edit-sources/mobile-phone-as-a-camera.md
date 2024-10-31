@@ -16,7 +16,7 @@ layout:
 
 CamIn 开映支持将相机作为内容源添加到软件。在使用相机作为内容源时，请根据相机的品牌选择官方提供的应用软件。然后按照如下方法选择并添加摄像头即可。
 
-<figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
 
 ### 附录
 

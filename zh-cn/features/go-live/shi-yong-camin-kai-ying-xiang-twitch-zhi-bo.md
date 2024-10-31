@@ -20,7 +20,7 @@ layout:
 2. 在打开的窗口中点击【获取Twitch授权】，在打开的浏览器页面输入Twitch的账号和密码进行授权登录
 3.  授权成功后，回到 CamIn 开映软件，此时 Twitch 的频道已经添加到直播平台列表
 
-    <figure><img src="../../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
 4. 点击【开始直播】 即可开播。
 
 ### 注意事项

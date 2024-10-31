@@ -20,13 +20,13 @@ layout:
 
 浏览器登录 [CamIn 开映官网](https://www.camin.cn),点击页面右上角的「新建」按钮，选择「上传视频」即可。
 
-<figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
 
 ### 使用小程序上传视频
 
 1.  微信搜索「开映小程序」或微信扫描下方二维码，打开 CamIn 开映小程序。
 
-    <figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
 2. 点击右下角的 「+」 号，可以选择「上传相册视频」或「导入微信视频」。
 
 <figure><img src="../../.gitbook/assets/上传视频示意图.png" alt=""><figcaption></figcaption></figure>

@@ -35,7 +35,7 @@ layout:
 
 在软件工具栏点击【直播推流】。在打开的窗口中点击【添加直播平台】 然后选择你想要的直播平台根据要求填写推流相关信息，添加直播平台后即可开始直播。
 
-<figure><img src="../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
 
 * 直播间名称：必填项，填写直播平台的昵称，系统会自动保存；
 * 推流地址：必填项，仅支持RTMP协议地址，格式错误时则会提示“请填写正确的RTMP地址”；
