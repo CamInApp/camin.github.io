@@ -13,7 +13,7 @@ layout:
     visible: true
 ---
 
-# 苹果电脑安装/卸载 CamIn 虚拟摄像头
+# 苹果电脑安装 CamIn 虚拟摄像头
 
 ### 安装方法
 
