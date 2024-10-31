@@ -19,4 +19,4 @@ CamIn allows you to upload your local videos to CamIn cloud storage, so that you
 1. Open[ CamIn's official website on your browser](https://www.camin.net/login) and Login
 2.  On \[My space] page, click \[New] and then click \[Upload a video]
 
-    <figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

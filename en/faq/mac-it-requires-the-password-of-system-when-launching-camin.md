@@ -6,6 +6,6 @@
 
 2.  Delete `classincam-mac-module.plugin`（password is required）；
 
-    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>screenshot 2</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>screenshot 2</p></figcaption></figure>
 3. Relaunch CamIn, and input the password of system again.
 4. Done!

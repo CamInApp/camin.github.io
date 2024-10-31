@@ -23,7 +23,7 @@ A virtual camera(also called virtual webcam) is a software-based camera that sim
 1. Add the sources you want to present to CamIn
 2.  Select \[CamIn virtual camera] in the video software you are using to get started.
 
-    <figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Sources CamIn supports
 

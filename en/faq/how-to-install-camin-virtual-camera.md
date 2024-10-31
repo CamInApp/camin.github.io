@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# \[Mac] How to install/uninstall CamIn virtual camera
+# \[Mac] How to install CamIn virtual camera
 
 ### Installation Instructions
 
@@ -20,13 +20,17 @@ For **macOS versions below 14**, you can simply install the software as usual. F
 
 **macOS 14.0**
 
-1. Install and open the software. A system prompt saying "System Extension Blocked" will appear. Click on "Open System Settings" in this prompt.
+1.  Install and open the software. A system prompt saying "System Extension Blocked" will appear. Click on "Open System Settings" in this prompt.
+
+    <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Alternatively, you can go to **Apple menu > System Settings > Privacy & Security > Security** to locate this setting.
 {% endhint %}
 
-2. In the System Settings window, click "Allow."
+2.  In the System Settings window, click "Allow."
+
+    <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 **macOS 15.0**
 
@@ -81,4 +85,4 @@ First, check your macOS version by clicking the **Apple menu > About This Mac**.
     > **Note**: You’ll find `<teamid>` and `<bundleid>` in the output from step. Exclude the `< >` symbols when typing them in.
 7.  Once you see a success message, close Terminal and restart your Mac to complete the process.
 
-    <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
