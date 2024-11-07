@@ -14,7 +14,21 @@ layout:
 
 # Changelog
 
-#### CamIn 3.1.0.65
+### CamIn 3.2.0.11
+
+1\. Added quick pinning feature in the preview area.
+
+2\. Enhanced recording experience to minimize audio-video sync issues.
+
+3\. Improved notification for missing virtual camera on macOS.
+
+4\. Optimized performance for greater stability.
+
+5\. Fixed an issue where free membership prompts could overlap with functional buttons.
+
+6\. Resolved an issue where the brush tool might cause app crashes on certain devices.
+
+### CamIn 3.1.0.65
 
 July 15, 2024
 
