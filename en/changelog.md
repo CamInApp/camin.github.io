@@ -16,6 +16,8 @@ layout:
 
 ### CamIn 3.2.0.11
 
+Nov 7, 2024
+
 1\. Added quick pinning feature in the preview area.
 
 2\. Enhanced recording experience to minimize audio-video sync issues.
