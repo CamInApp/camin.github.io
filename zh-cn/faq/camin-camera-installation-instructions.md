@@ -45,7 +45,7 @@ layout:
 
 2. 在打开的窗口上，将 CamIn 的开关打开即可。
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ### 卸载方法
 
@@ -73,4 +73,4 @@ sudo rm -rf  /Library/CoreMediaIO/Plug-Ins/DAL/classincam-mac-module.plugin
    2. 输入时不需要带<>
 5.  卸载成功后会有 success 的提示，此时关闭终端工具然后重启电脑即可。
 
-    <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
