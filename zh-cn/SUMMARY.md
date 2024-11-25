@@ -44,7 +44,7 @@
 ## 🏆 账号与会员 <a href="#accountandbilling" id="accountandbilling"></a>
 
 * [🐼 账号设置](accountandbilling/basicinfo.md)
-* [换绑手机号](accountandbilling/huan-bang-shou-ji-hao.md)
+* [换绑手机号](accountandbilling/change-mobile-number.md)
 * [🌟 会员与权益](accountandbilling/membership-and-benifits.md)
 
 ## 🛟 常见问题 <a href="#faq" id="faq"></a>
