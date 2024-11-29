@@ -22,7 +22,7 @@ layout:
 
 ### **2. 获取串流秘钥**
 
-1. 打开 [小红书直播平台](https://www.xiaohongshu.com/zhibo)，登录小红书账号。
+1. 打开 [小红书直播平台](https://www.xiaohongshu.com/zhibo/robs)，登录小红书账号。
 2. 点&#x51FB;**「去OBS开播」。**
 
 <figure><img src="../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
