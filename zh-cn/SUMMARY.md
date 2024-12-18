@@ -46,10 +46,10 @@
 * [🐼 账号设置](accountandbilling/basicinfo.md)
 * [换绑手机号](accountandbilling/change-mobile-number.md)
 * [🌟 会员与权益](accountandbilling/membership-and-benifits.md)
+* [🧾 申请发票](accountandbilling/shen-qing-fa-piao.md)
 
 ## 🛟 常见问题 <a href="#faq" id="faq"></a>
 
-* [Page](faq/page.md)
 * [苹果电脑安装 CamIn 虚拟摄像头](faq/camin-camera-installation-instructions.md)
 * [🥸 视频播放卡顿](faq/shi-pin-bo-fang-ka-dun.md)
 * [😵 投屏失败](faq/tou-ping-shi-bai.md)
