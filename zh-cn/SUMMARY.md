@@ -46,7 +46,7 @@
 * [🐼 账号设置](accountandbilling/basicinfo.md)
 * [换绑手机号](accountandbilling/change-mobile-number.md)
 * [🌟 会员与权益](accountandbilling/membership-and-benifits.md)
-* [🧾 申请发票](accountandbilling/shen-qing-fa-piao.md)
+* [🧾 申请发票](accountandbilling/invoice.md)
 
 ## 🛟 常见问题 <a href="#faq" id="faq"></a>
 
@@ -65,7 +65,7 @@
 
 ***
 
-* [🔔 更新日志](changelog.md)
+* [🔔 产品服务更新日志](changelog.md)
 * [📞 联系我们](contactus.md)
 
 ## 📃 服务协议 <a href="#policy" id="policy"></a>
