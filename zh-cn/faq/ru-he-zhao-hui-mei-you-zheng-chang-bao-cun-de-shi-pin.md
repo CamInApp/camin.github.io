@@ -20,8 +20,11 @@ layout:
 
     <figure><img src="../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
+&#x20; <mark style="color:red;">你也可以点击“更改”改变存储路径，但请务必使用英文命名文件夹，不要使用中文命名。</mark>
+{% endhint %}
 
-2. 在打开的文件夹内可以找到录制的视频文件。如果存在多个片段，可以使用第三方剪辑软件。将片段拼接到一起。
+1. 在打开的文件夹内可以找到录制的视频文件。如果存在多个片段，可以使用第三方剪辑软件。将片段拼接到一起。
 
 {% hint style="info" %}
 文件名相同的两个文件表示两段内容是一样的，推荐使用后缀名为.flv的视频文件。
