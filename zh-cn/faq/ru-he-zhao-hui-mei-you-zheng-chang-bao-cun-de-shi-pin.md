@@ -23,6 +23,10 @@ layout:
 
 2. 在打开的文件夹内可以找到录制的视频文件。如果存在多个片段，可以使用第三方剪辑软件。将片段拼接到一起。
 
+{% hint style="info" %}
+文件名相同的两个文件表示两段内容是一样的，推荐使用后缀名为.flv的视频文件。
+{% endhint %}
+
 <figure><img src="../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
 
 

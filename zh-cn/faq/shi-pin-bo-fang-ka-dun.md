@@ -40,7 +40,7 @@ CamIn 开映支持上传 .mp4和 .webm 两种格式的视频文件。如果播�
 如果你的视频是通过剪辑软件编辑的，可以在导出视频之前按照如下参数（以剪映为例）设置后再导出。
 
 {% hint style="danger" %}
-目前已知剪映导出的视频播放大概率仍会卡顿，请按照[【软件压缩视频】](shi-pin-bo-fang-ka-dun-zen-me-ban.md#tong-guo-ruan-jian-ya-suo-shi-pin)的方法处理再上传。
+目前已知剪映导出的视频播放大概率仍会卡顿，请按照[【软件压缩视频】](shi-pin-bo-fang-ka-dun.md#tong-guo-ruan-jian-ya-suo-shi-pin)的方法处理再上传。
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
