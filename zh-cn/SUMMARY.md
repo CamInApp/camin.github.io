@@ -51,7 +51,8 @@
 ## 🛟 常见问题 <a href="#faq" id="faq"></a>
 
 * [苹果电脑安装 CamIn 虚拟摄像头](faq/camin-camera-installation-instructions.md)
-* [🥸 视频播放卡顿](faq/shi-pin-bo-fang-ka-dun.md)
+* [📼 视频播放卡顿，怎么办？](faq/shi-pin-bo-fang-ka-dun-zen-me-ban.md)
+* [☠️ 如何找回没有正常保存的视频](faq/ru-he-zhao-hui-mei-you-zheng-chang-bao-cun-de-shi-pin.md)
 * [😵 投屏失败](faq/tou-ping-shi-bai.md)
 * [😏 PPT上传失败](faq/ppt-shang-chuan-shi-bai.md)
 * [😥 画笔太粗](faq/hua-bi-tai-cu.md)
