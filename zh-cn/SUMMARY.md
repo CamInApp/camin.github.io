@@ -66,7 +66,7 @@
 
 ***
 
-* [🔔 产品服务更新日志](changelog.md)
+* [🔔 更新日志](changelog.md)
 * [📞 联系我们](contactus.md)
 
 ## 📃 服务协议 <a href="#policy" id="policy"></a>
