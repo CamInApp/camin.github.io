@@ -64,12 +64,9 @@
 * [🤹 会员到期后，加密分享的视频还能看吗？](faq/hui-yuan-dao-qi-hou-jia-mi-fen-xiang-de-shi-pin-hai-neng-kan-ma.md)
 * [😑 Mac 版启动时提示输入密码后直接退出](faq/mac-ban-qi-dong-shi-ti-shi-shu-ru-mi-ma-hou-zhi-jie-tui-chu.md)
 
-***
+## 🇩🇯 关于我们 <a href="#about-us" id="about-us"></a>
 
-* [🔔 更新日志](changelog.md)
-* [📞 联系我们](contactus.md)
-
-## 📃 服务协议 <a href="#policy" id="policy"></a>
-
-* [🔐 隐私政策](policy/yin-si-zheng-ce.md)
-* [👤 用户协议](policy/yong-hu-xie-yi.md)
+* [🔔 更新日志](about-us/changelog.md)
+* [📞 联系我们](about-us/contactus.md)
+* [👤 用户协议](about-us/yong-hu-xie-yi.md)
+* [🔐 隐私政策](about-us/yin-si-zheng-ce.md)

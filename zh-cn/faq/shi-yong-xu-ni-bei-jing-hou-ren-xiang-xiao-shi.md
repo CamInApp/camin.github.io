@@ -30,4 +30,4 @@ layout:
 
 3\. intel 显卡驱动更新地址：[Search - Intel.com](https://www.intel.sg/content/www/xa/en/search.html#sort=relevancy\&f:@tabfilter=)
 
-如果问题仍然存在，请加入[用户交流群](../contactus.md#wen-ti-huo-jian-yi)反馈，我们第一时间解答。
+如果问题仍然存在，请加入[用户交流群](../about-us/contactus.md#wen-ti-huo-jian-yi)反馈，我们第一时间解答。
