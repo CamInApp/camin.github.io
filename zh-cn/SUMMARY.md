@@ -64,7 +64,7 @@
 * [🤹 会员到期后，加密分享的视频还能看吗？](faq/hui-yuan-dao-qi-hou-jia-mi-fen-xiang-de-shi-pin-hai-neng-kan-ma.md)
 * [😑 Mac 版启动时提示输入密码后直接退出](faq/mac-ban-qi-dong-shi-ti-shi-shu-ru-mi-ma-hou-zhi-jie-tui-chu.md)
 
-## 🇩🇯 关于我们 <a href="#about-us" id="about-us"></a>
+## 🇨🇳 关于我们 <a href="#about-us" id="about-us"></a>
 
 * [🔔 更新日志](about-us/changelog.md)
 * [📞 联系我们](about-us/contactus.md)
