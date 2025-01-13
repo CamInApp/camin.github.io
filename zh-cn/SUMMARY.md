@@ -53,7 +53,7 @@
 * [苹果电脑安装 CamIn 虚拟摄像头](faq/camin-camera-installation-instructions.md)
 * [📼 视频播放卡顿，怎么办？](faq/shi-pin-bo-fang-ka-dun.md)
 * [☠️ 如何找回没有正常保存的视频](faq/recover-videos.md)
-* [🤿 无法找到 Camin 开映虚拟摄像头](faq/wu-fa-zhao-dao-camin-kai-ying-xu-ni-she-xiang-tou.md)
+* [🤿 无法找到 Camin 开映虚拟摄像头](faq/failed-loading-camin-virtual-camera.md)
 * [😵 投屏失败](faq/tou-ping-shi-bai.md)
 * [😏 PPT上传失败](faq/ppt-shang-chuan-shi-bai.md)
 * [😥 画笔太粗](faq/hua-bi-tai-cu.md)
