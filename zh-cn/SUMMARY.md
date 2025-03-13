@@ -41,6 +41,10 @@
   * [👽 在微信中使用 CamIn 开映虚拟摄像头](features/camin-virtual-camera/how-to-use-camin-in-wechat.md)
   * [🕊️ 在 Zoom 中使用开映虚拟摄像头](features/camin-virtual-camera/how-to-use-camin-in-zoom.md)
 
+***
+
+* [CamIn 开映团队版](camin-kai-ying-tuan-dui-ban.md)
+
 ## 🏆 账号与会员 <a href="#accountandbilling" id="accountandbilling"></a>
 
 * [🐼 账号设置](accountandbilling/basicinfo.md)
