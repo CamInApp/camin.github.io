@@ -43,7 +43,7 @@
 
 ***
 
-* [CamIn 开映团队版](camin-kai-ying-tuan-dui-ban.md)
+* [CamIn 开映团队版](camin-for-team.md)
 
 ## 🏆 账号与会员 <a href="#accountandbilling" id="accountandbilling"></a>
 
