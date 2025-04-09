@@ -65,18 +65,18 @@ CamIn 开映免费版本和专业版本均可以免费创建一个团队。免�
 
 1. 登录 [CamIn 官网](https://www.camin.cn), 点击左上角的“邀请成员”按钮；
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 
 
 1.  在打开的窗口上即可以看到“邀请成员”的连接，复制此连接发给成员。如下图：
 
-    <figure><img src=".gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 
 2.  成员点击邀请链接即可加入团队。<mark style="color:red;">注意：如果团队席位数已满，则不能再加入团队，你需要再购买席位才可以邀请。</mark>
 
-    <figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

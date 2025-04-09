@@ -22,4 +22,4 @@ layout:
 微信内找到付款详情的操作步骤：我的-服务-钱包-账单
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

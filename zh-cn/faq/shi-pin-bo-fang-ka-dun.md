@@ -20,7 +20,7 @@ CamIn 开映支持上传 .mp4和 .webm 两种格式的视频文件。如果播�
 
 1.  下载 压缩软件：[点击去下载 handbrake](https://handbrake.fr/downloads.php)
 
-    <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 2. 打开 handbrake，第一步打开源；
 3. 根据源视频的清晰度，选择预设参数，同时勾选【web优化】，开始压缩。👇
 
