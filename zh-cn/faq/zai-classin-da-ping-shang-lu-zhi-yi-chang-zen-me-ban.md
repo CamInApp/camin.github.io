@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# 🖥️ 在 Classin 大屏设备上提示录制异常，怎么办？
+# 🖥️ 在 Classin 大屏上录制异常，怎么办？
 
 1. 退出 Camin 软件；
 2.  打开文件管理器，在文件地址栏输入 %appdata%，敲回车键打开；
@@ -23,7 +23,7 @@ layout:
     <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
     <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
-4.  用记事本打开 settings.ini 文件，把 RecEncodeWav=0 这里的 0 修改为 1 ，保存；
+4.  用记事本打开 settings.ini 文件，把 RecEncodeWay=0 这里的 0 修改为 1 ，保存；
 
     <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 5. 重启 Camin 软件
