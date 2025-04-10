@@ -62,11 +62,11 @@ sudo rm -rf  /Library/CoreMediaIO/Plug-Ins/DAL/classincam-mac-module.plugin
 
 #### 系统版本在 14.0 或以上
 
-1. 进入系统恢复模式，设置 System Integrity Protection 为 disable
+1. 进入 Recovery 模式（系统恢复模式），将 System Integrity Protection 设置为 disable，具体操作步骤见以下 abc 3步：
    1. 重新启动电脑，配备苹果芯片的电脑长按开机键（Intel 芯片的按住 CMD+R ）直到屏幕上出现苹果图标和进度条，进入 Recovery 模式
    2. 在界面上方的工具栏中找到实用工具-终端，打开终端并输入 csrutil disable
    3. 关闭终端工具，重新启动
-2. 重新启动后打开终端工具输入 systemextensionsctl developer on 并执行
+2. 重新启动后，打开终端工具输入 systemextensionsctl developer on 并执行
 3. 然后继续输入 systemextensionsctl list 并执行，查看虚拟摄像头的详细信息
 4. 继续输入 systemextensionsctl uninstall \<teamid> \<bundleid> 并执行
    1. 请注意：teamid 和 bundleid 在第三步的输出中可以看到
