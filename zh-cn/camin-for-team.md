@@ -24,9 +24,9 @@ CamIn 开映团队版是专门针对团队多人共同使用 CamIn 打造。通�
 1. 登录 CamIn 开映官网 👉 [www.camin.cn](https://www.camin.cn)
 2.  点击左上角的新建团队按钮创建团队
 
-    <figure><img src=".gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
 
 
+    <figure><img src=".gitbook/assets/image (115).png" alt=""><figcaption></figcaption></figure>
 3.  你也可以点击右上角的头像，在展开的弹窗上点击“新建团队”创建团队，如下图。
 
     <figure><img src=".gitbook/assets/image (110).png" alt="" width="375"><figcaption></figcaption></figure>
