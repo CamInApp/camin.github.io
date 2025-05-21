@@ -12,12 +12,12 @@ layout:
     visible: true
 ---
 
-# 🤿 无法找到 Camin 开映虚拟摄像头
+# 🤿 Windows无法找到 Camin 开映虚拟摄像头
 
 安装 Camin 开映软件之后，如果你发现在腾讯会议、直播伴侣等视频软件中无法找到 “Camin virtual camera” 这个选项。你可以尝试按照以下方法修复。
 
 {% hint style="info" %}
-注意：此方法仅针对 Windows 系统用户有效。
+注意：此方法仅针对 Windows 系统用户有效。如果你是苹果电脑请参考这个教程👉 [苹果电脑安装 Camin 摄像头](camin-camera-installation-instructions.md)
 {% endhint %}
 
 1.  找到系统的命令提示符工具，并以管理员身份打开。
