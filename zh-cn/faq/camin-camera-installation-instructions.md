@@ -13,7 +13,9 @@ layout:
     visible: true
 ---
 
-# 苹果电脑安装 CamIn 虚拟摄像头
+# 苹果电脑无法找到 Camin 摄像头
+
+安装 Camin 开映软件之后，如果你发现在腾讯会议、直播伴侣等视频软件中无法找到 “Camin virtual camera” 这个选项。你可以尝试按照以下方法处理。
 
 ### 安装方法
 
