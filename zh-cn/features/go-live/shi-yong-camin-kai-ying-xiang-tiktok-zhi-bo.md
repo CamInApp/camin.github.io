@@ -35,15 +35,15 @@ layout:
 
 此方法需要配合 TikTok Live studio 使用。
 
-1. 下载并安装 [TikTok live studio](https://www.tiktok.com/studio/download?lang=zh-Hans\&enter\_from=live\_center)
+1. 下载并安装 [TikTok live studio](https://www.tiktok.com/studio/download?lang=zh-Hans\&enter_from=live_center)
 2.  在左侧的场景列表中，点击【添加内容源】，然后选择【相机】,点击添加
 
-    <figure><img src="../../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
 
 
 3.  在打开的窗口中选择 CamIn virtual camera，然后点击添加来源
 
-    <figure><img src="../../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
 
 
 4. 启动 CamIn 软件，将内容编排完成后，在TikTok live studio 点击【开始直播】。然后回到CamIn 软件操作即可。

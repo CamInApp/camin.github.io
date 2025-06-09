@@ -50,14 +50,14 @@
 * [🐼 账号设置](accountandbilling/basicinfo.md)
 * [换绑手机号](accountandbilling/change-mobile-number.md)
 * [🌟 会员与权益](accountandbilling/membership-and-benifits.md)
-* [🧾 申请发票](accountandbilling/shen-qing-fa-piao.md)
+* [🧾 申请发票](accountandbilling/invoice.md)
 
 ## 🛟 常见问题 <a href="#faq" id="faq"></a>
 
 * [苹果电脑无法找到 Camin 摄像头](faq/camin-camera-installation-instructions.md)
 * [🤿 Windows无法找到 Camin 摄像头](faq/failed-loading-camin-virtual-camera.md)
 * [🖥️ 在 Classin 大屏录制异常，怎么办？](faq/zai-classin-da-ping-lu-zhi-yi-chang-zen-me-ban.md)
-* [📼 视频播放卡顿，怎么办？](faq/shi-pin-bo-fang-ka-dun.md)
+* [📼 视频播放卡顿，怎么办？](faq/shi-pin-bo-fang-ka-dun-zen-me-ban.md)
 * [☠️ 如何找回没有正常保存的视频](faq/recover-videos.md)
 * [😵 投屏失败](faq/tou-ping-shi-bai.md)
 * [😏 PPT上传失败](faq/ppt-shang-chuan-shi-bai.md)

@@ -20,15 +20,15 @@ layout:
 
 1. 打开抖音直播伴侣，并选择你要直播的平台然后登录。这里以抖音为例
 
-<figure><img src="../../.gitbook/assets/image (53).png" alt="step 1" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (64).png" alt="step 1" width="563"><figcaption></figcaption></figure>
 
 2. 登录后进入软件主界面，然后点击添加素材-点击摄像头
 
-<figure><img src="../../.gitbook/assets/image (54).png" alt="step 2" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (65).png" alt="step 2" width="563"><figcaption></figcaption></figure>
 
 3. 在摄像头设置中选择【CamIn Virtual Camera】
 
-<figure><img src="../../.gitbook/assets/image (55).png" alt="step 3" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (66).png" alt="step 3" width="563"><figcaption></figcaption></figure>
 
 ### 2. 打开 CamIn 开映
 

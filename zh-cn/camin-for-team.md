@@ -26,16 +26,16 @@ CamIn 开映团队版是专门针对团队多人共同使用 CamIn 打造。通�
 
 
 
-    <figure><img src=".gitbook/assets/image (115).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
 3.  你也可以点击右上角的头像，在展开的弹窗上点击“新建团队”创建团队，如下图。
 
-    <figure><img src=".gitbook/assets/image (110).png" alt="" width="375"><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (121).png" alt="" width="375"><figcaption></figcaption></figure>
 
 方法 2：通过 CamIn 开映客户端创建团队
 
 1.  电脑上打开并登录 CamIn 开映客户端，点击左下角头像-新建团队，创建团队。
 
-    <figure><img src=".gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (122).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -47,10 +47,10 @@ CamIn 开映免费版本和专业版本均可以免费创建一个团队。免�
 
 1.  创建团队后，点击页面右上角的“开通会员”按钮；
 
-    <figure><img src=".gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (123).png" alt=""><figcaption></figcaption></figure>
 2.  在打开的窗口上即可看到开通会员的付费窗口，请根据你的团队人数选择购买的席位数或时长，扫码开通即可。
 
-    <figure><img src=".gitbook/assets/image (113).png" alt="" width="375"><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (124).png" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
@@ -71,12 +71,12 @@ CamIn 开映免费版本和专业版本均可以免费创建一个团队。免�
 
 1.  在打开的窗口上即可以看到“邀请成员”的连接，复制此连接发给成员。如下图：
 
-    <figure><img src=".gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (5).png" alt="" width="375"><figcaption></figcaption></figure>
 
 
 2.  成员点击邀请链接即可加入团队。<mark style="color:red;">注意：如果团队席位数已满，则不能再加入团队，你需要再购买席位才可以邀请。</mark>
 
-    <figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -87,7 +87,7 @@ CamIn 开映免费版本和专业版本均可以免费创建一个团队。免�
 1. 登录 [CamIn 官网](https://www.camin.cn), 点击右上角头像，切换到你的团队；
 2.  点击窗口下方的“团队管理”按钮；
 
-    <figure><img src=".gitbook/assets/image (114).png" alt="" width="375"><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (125).png" alt="" width="375"><figcaption></figcaption></figure>
 3.  在打开的页面上，点击“团队成员” 按钮，找到你想要移除的成员，即可操作
 
     <figure><img src=".gitbook/assets/企业微信截图_d7b40634-1df1-4cf6-a033-578f130b9953.png" alt=""><figcaption></figcaption></figure>

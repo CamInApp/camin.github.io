@@ -25,7 +25,7 @@ layout:
 1. 打开 [小红书直播平台](https://www.xiaohongshu.com/zhibo/robs)，登录小红书账号。
 2. 点&#x51FB;**「去OBS开播」。**
 
-<figure><img src="../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
 
 3. 然后输入上一步复制的6位数字，可以获取串流秘钥，复制这段密钥。
 
@@ -41,7 +41,7 @@ layout:
 
 推流密钥：上一步输入验证码后生成的密钥
 
-<figure><img src="../../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
 
 ### 4. 手机端-进入直播
 

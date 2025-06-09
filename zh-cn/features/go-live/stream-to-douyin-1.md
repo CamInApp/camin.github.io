@@ -20,13 +20,13 @@ layout:
 
 1.  打开快手直播伴侣，根据提示选择适合你的直播方式。
 
-    <figure><img src="../../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
 2.  选择直播模式后，进入软件主界面,点击摄像头。
 
-    <figure><img src="../../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure>
 3.  在摄像头设置中选择【CamIn Virtual Camera】
 
-    <figure><img src="../../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
 
 ### 2. 打开 CamIn 开映
 

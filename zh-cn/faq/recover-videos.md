@@ -18,7 +18,7 @@ layout:
 
 1.  点击软件左下角的头像-设置，在设置面板中找到视频存储路径。点击存储路径之后的打开按钮。
 
-    <figure><img src="../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 &#x20; <mark style="color:red;">你也可以点击“更改”改变存储路径，但请务必使用英文命名文件夹，不要使用中文命名。</mark>
@@ -30,7 +30,7 @@ layout:
 文件名相同的两个文件表示两段内容是一样的，推荐使用后缀名为.flv的视频文件。
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
 
 
 

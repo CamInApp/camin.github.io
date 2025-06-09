@@ -20,18 +20,18 @@ layout:
 
 1. 点击客户端左下角头像-个人中心
 
-<figure><img src="../.gitbook/assets/image (50).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (61).png" alt="" width="563"><figcaption></figcaption></figure>
 
 2. 在打开的窗口中即可修改头像或昵称
 
-<figure><img src="../.gitbook/assets/image (51).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (62).png" alt="" width="563"><figcaption></figcaption></figure>
 
 #### 在官网修改
 
 1. 登录[ CamIn 开映官网](https://www.camin.cn)
 2. 点击右上角头像旁边的箭头，在打开的面板上点击「个人设置」
 
-<figure><img src="../.gitbook/assets/image (16).png" alt="" width="459"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (27).png" alt="" width="459"><figcaption></figcaption></figure>
 
 3. 在个人设置中即可修改昵称、头像或密码
 

@@ -20,13 +20,13 @@ layout:
 
 点击「新建内容区」或在任意内容区右侧点击「+」，在出现的面板上选择「网络摄像头」-「添加网络摄像头」即可向 CamIn 添加网络摄像头
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 ### 网络摄像头地址
 
 &#x20;添加网络摄像头面板全部字段均为必填。其中，网络摄像头地址是你设备的真实链接。名称仅用作网络摄像头列表识别使用，你可以根据情况适当命名。
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 ### CamIn 支持的协议
 

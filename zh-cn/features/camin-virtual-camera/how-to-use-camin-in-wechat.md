@@ -18,7 +18,7 @@ layout:
 
 在微信视频通话开始后，鼠标滑动到切换摄像头按钮，选择 CamIn virtual camera 即可。如下图所示：
 
-<figure><img src="../../.gitbook/assets/image (49).png" alt="wechatcall" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (60).png" alt="wechatcall" width="375"><figcaption></figcaption></figure>
 
 如果你的电脑上只有CamIn 开映虚拟摄像头。那么，在微信中开始视频通话后就会自动显示 CamIn 开映的虚拟摄像头画面。
 

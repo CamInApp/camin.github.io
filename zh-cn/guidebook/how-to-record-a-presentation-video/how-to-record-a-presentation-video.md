@@ -18,11 +18,11 @@ layout:
 
 **方法1：**&#x70B9;击选择文档通道，在应用的界面下方点击【添加内容源】，在打开的窗口中选择【从本地选择】或【从云盘选择】（ClassIn云盘中的已存在的文件可使用该方法）添加 PPT。
 
-<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;**方法2：**&#x70B9;击【新建通道】，在应用界面的下方点击【添加内容源】。注意：新创建的通道的通道框会平铺在右侧画面区域。
 
-<figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
 ### 调整背景、人像和布局
 
@@ -34,7 +34,7 @@ CamIn 提供默认背景。可以在【背景通道】切换选择使用，也�
 
 鼠标移动到人像区域，点击【设置】按钮。在展开的面板中调整人像特效。可以设置人像的形状、背景抠像、美颜或贴纸。注意：设置特效要求较高硬件配置，如果出现卡顿情况，请适当关闭特效。&#x20;
 
-<figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 
 布局调整
 
@@ -46,7 +46,7 @@ CamIn 提供默认背景。可以在【背景通道】切换选择使用，也�
 
 1.  **PPT翻页**：鼠标移动到PPT上，点击左箭头向上翻页、或点击右键头向下翻页；如果PPT中包括动画，在PPT画面上单击鼠标或按键盘空格会依次播放动画并翻页。
 
-    <figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 2. **PPT跳页：**&#x5728;应用界面的下方找到演示文档，鼠标单击，即可展开PPT全部页面。单击某个页面即可跳页，点击左侧按钮即可返回。
 
 ### 录制视频

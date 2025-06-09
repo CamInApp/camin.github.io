@@ -22,11 +22,11 @@ layout:
 
 2.首页点击【直播管理】-【直播间管理】，完善基础信息，再点击【创建】，进入直播配置界面。
 
-<figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
 
 3. 在直播配置界面，可以看到【推流地址】和【推流密钥】，准备好这两部分信息，回到开映软件。需要注意：每创建一次直播间，推流地址更换一次。
 
-<figure><img src="../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
 
 #### 在开映中配置直播推流
 

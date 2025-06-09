@@ -18,13 +18,13 @@ layout:
 
 点击红色按钮，即可开始录制视频。
 
-<figure><img src="../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
 
 ### 画笔涂鸦
 
 单击【画笔】图标即可使用画笔辅助讲解；单击【T】图标可以添加文字描述；【橡皮擦】可以将绘制内容擦除；选择【清屏】按钮可以将涂鸦内容一键清除；选择【撤销】按钮，可以撤销当前操作返回上一步。
 
-<figure><img src="../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
 
 ### 停止与保存录制
 
@@ -32,13 +32,13 @@ layout:
 2. 继续录制：在打开的窗口中点击【继续录制】即可继续录制视频。
 3.  保存录制：点击【保存】即可将录制的视频保存到电脑的指定位置。
 
-    <figure><img src="../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
 
 ### 调整画质
 
 点击客户端左下角你的头像，进入【通用设置】，可以选择画质和帧率。
 
-<figure><img src="../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
 
 ### 画中画模式
 
@@ -66,4 +66,4 @@ layout:
 
 点击通道右侧【...】符号，在打开的窗口中点击删除，可删除该通道。
 
-<figure><img src="../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>

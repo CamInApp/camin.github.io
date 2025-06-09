@@ -22,7 +22,7 @@ CamIn 开映的软件界面主要分为三个部分。左侧为素材编辑区�
 
 下图为 CamIn 3.0 软件界面，接下来将以此版本为基础，详细介绍 CamIn 的产品界面。
 
-<figure><img src="../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
 
 #### **1. 场景**
 
@@ -70,13 +70,13 @@ CamIn 支持横竖屏切换、横屏比例为16:9，竖屏比例为9:16。画质
 
 通过麦克风设置，你可以选择收音的设备。同时可以选择是否开启自动麦克风音量或背景音降噪，来实现更理想的录制效果。
 
-<figure><img src="../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
 
 ### 其他软件设置
 
 在软件左下角点击头像，再点击设置即可打开软件的设置项。在设置内，你可以调整软件的录制声音设置、录制文件的保存位置等信息。
 
-<figure><img src="../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
 
 #### 录制声音设置
 

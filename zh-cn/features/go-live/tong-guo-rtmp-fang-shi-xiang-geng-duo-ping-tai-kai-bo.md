@@ -23,4 +23,4 @@ layout:
 3. 在打开的窗口中依次填写直播平台名称、推流地址和密钥，然后点击【添加直播平台】
 4.  直播平台添加完成后，即可开始直播
 
-    <figure><img src="../../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>

@@ -20,7 +20,7 @@ layout:
 
 在观看视频时，你可以随时点击视频下方的 emoji 表情留下你对视频的赞美或表扬。当视频播放时，视频时间线上的 emoji 会相应地跳动，以表示此处有用户的互动评价。
 
-<figure><img src="../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
 
 ### 文本评论
 
