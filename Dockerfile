@@ -3,7 +3,7 @@ FROM yunnysunny/gitbook:latest  AS build-stage
 ARG BOOK_DIR=zh-cn
 COPY ./.gitbook /opt
 COPY ./${BOOK_DIR} /opt
-RUN ls /opt -l
+RUN ls /opt -la
 WORKDIR /opt/${BOOK_DIR}
 RUN gitbook pdf . ../book.pdf
 
