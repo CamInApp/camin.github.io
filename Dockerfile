@@ -1,7 +1,10 @@
 FROM yunnysunny/gitbook:latest  AS build-stage
 
-WORKDIR /opt
-COPY . /opt
+ARG BOOK_DIR=zh-cn
+COPY ./.gitbook /opt
+COPY ./${BOOK_DIR} /opt
+RUN ls /opt -l
+WORKDIR /opt/${BOOK_DIR}
 RUN gitbook pdf .
 
 FROM scratch AS export-stage
