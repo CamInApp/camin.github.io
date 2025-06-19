@@ -5,7 +5,7 @@ COPY ./.gitbook /opt
 COPY ./${BOOK_DIR} /opt
 RUN ls /opt -l
 WORKDIR /opt/${BOOK_DIR}
-RUN gitbook pdf .
+RUN gitbook pdf . ../book.pdf
 
 FROM scratch AS export-stage
 COPY --from=build-stage /opt/book.pdf /
