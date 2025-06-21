@@ -25,5 +25,4 @@ sudo apt install -y \
   fonts-wqy-zenhei \
   fonts-wqy-microhei
 
-export OPENSSL_CONF=/dev/null
-node gen-pdf.js
+npm run pdf:cn

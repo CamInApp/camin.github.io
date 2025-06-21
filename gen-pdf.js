@@ -1,11 +1,12 @@
-const markdownpdf = require('markdown-pdf')
+// const markdownpdf = require('markdown-pdf')
 const path = require('path')
 const fs = require('fs')
 const { mdToPdf } = require('md-to-pdf')
 
-
+const args = process.argv;
+const sourceDir = args[2] || 'zh-cn'
 // const bookPath = path.join(__dirname, 'output/book.pdf')
-const markdownPath = path.join(__dirname, 'zh-cn')
+const markdownPath = path.join(__dirname, sourceDir)
 
 // 递归遍历文件夹，返回所有 .md 文件的绝对路径数组
 function getAllMarkdownFiles(dir) {
@@ -22,6 +23,19 @@ function getAllMarkdownFiles(dir) {
   })
   return results
 }
+function fixHtmlImagePaths(markdownContent, baseDir) {
+  return markdownContent.replace(
+    /<img\s+[^>]*src=["']([^"']+)["'][^>]*>/gi,
+    (match, src) => {
+      // 跳过远程 URL
+      if (/^https?:\/\//i.test(src)) return match
+      const absPath = path.resolve(baseDir, src)
+      const fileSrc = encodeURI(`${absPath}`)
+      console.log(fileSrc, src)
+      return match.replace(src, fileSrc)
+    }
+  )
+}
 
 async function mergeMarkdownToPdf(mdFiles, outputPath) {
   const mergedContent = mdFiles
@@ -35,6 +49,7 @@ async function mergeMarkdownToPdf(mdFiles, outputPath) {
       pdf_options: {
         format: 'A4',
       },
+      basedir: markdownPath,
     }
   )
 
@@ -42,7 +57,7 @@ async function mergeMarkdownToPdf(mdFiles, outputPath) {
 }
 
 const mdDocs = getAllMarkdownFiles(markdownPath)
-console.log(mdDocs)
+// console.log(mdDocs)
 
 // const paperFormat = 'A6'
 // markdownpdf({

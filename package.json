@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "pdf:cn": "md-to-pdf ./zh-cn/**/*.md",
-    "pdf:en": "md-to-pdf ./en/**/*.md"
+    "pdf:cn": "node gen-pdf.js",
+    "pdf:en": "node gen-pdf.js en"
   },
   "keywords": [],
   "author": "",
