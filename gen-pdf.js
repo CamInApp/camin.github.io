@@ -50,6 +50,9 @@ async function mergeMarkdownToPdf(mdFiles, outputPath) {
         format: 'A4',
       },
       basedir: markdownPath,
+      launch_options: {
+        args: ['--no-sandbox'],
+      },
     }
   )
 
