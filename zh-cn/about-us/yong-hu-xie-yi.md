@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 👤 用户协议
 
 北京翼鸥教育科技有限公司（以下简称“翼鸥教育”）在此特别提醒您（用户）在使用 CamIn 之前，请认真阅读本《 CamIn 用户协议》（以下简称“本协议”），确保您充分理解本协议中各条款。请您审慎阅读并选择接受或不接受本协议，包括但不限于免除或者限制翼鸥教育责任的条款、争议解决和法律适用条款。本协议适用范围为 CamIn 客户端软件（以下简称“CamIn”）。

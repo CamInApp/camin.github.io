@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 🖱️ 软件界面与设置
 
 CamIn 开映的软件界面主要分为三个部分。左侧为素材编辑区，你可以将所需素材添加到软件，通过调整层级、动效、透视等实现灵活的素材呈现效果。右侧为预览区，会实时呈现你编辑素材后的可视化的效果。预览区下方为功能操作区，包括画笔工具，横竖屏切换，画质设置等。

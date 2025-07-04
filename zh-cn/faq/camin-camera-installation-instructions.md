@@ -1,16 +1,5 @@
 ---
 icon: camera-slash
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 苹果电脑无法找到 Camin 摄像头

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 🧾 申请发票
 
 请将你的发票抬头、CamIn 开映账号和付款详情的截图邮件发送至 caminsupport@eeoa.com。工作人员收到开票信息后，会在 7 个工作日内开具发票并发送至你的邮箱，请注意查收。

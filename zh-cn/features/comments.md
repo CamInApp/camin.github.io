@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 💌 视频评论与互动
 
 视频分享给用户后，可以邀请你的用户进行评论互动。CamIn 开映支持基于视频播放时间线的打点式的评论互动。可以更好地帮助互动双方理解评论所指内容。

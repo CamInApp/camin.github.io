@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 🎥 使用 CamIn 开映向快手直播
 
 快手官方目前仅对媒体政务号和企业认证账号开放RTMP方式推流。因此，CamIn 开映暂时无法支持RTMP 推流方式在快手直播。但你仍然可以通过 CamIn 开映虚拟摄像头搭配快手直播伴侣进行直播。以下是操作步骤。

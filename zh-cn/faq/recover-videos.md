@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # ☠️ 如何找回没有正常保存的视频
 
 如果遇到软件中途闪退，或者视频无法正常保存的情况，可以通过以下方式找到你已经录制的视频。

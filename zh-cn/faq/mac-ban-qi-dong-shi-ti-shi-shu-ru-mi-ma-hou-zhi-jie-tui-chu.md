@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 😑 Mac 版启动时提示输入密码后直接退出
 
 1. 通过【访达】-【前往】-【前往文件夹】输入以下指令，进入文件夹；

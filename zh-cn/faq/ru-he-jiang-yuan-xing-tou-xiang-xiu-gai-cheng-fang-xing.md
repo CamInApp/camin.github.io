@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 🙆‍♀️ 如何将圆形头像修改成方形？
 
 1. 鼠标滑动到人像，点击设置；

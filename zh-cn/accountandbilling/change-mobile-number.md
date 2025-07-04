@@ -1,16 +1,5 @@
 ---
 icon: mobile
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 换绑手机号
@@ -19,7 +8,11 @@ layout:
 
 ### 设置账号登录密码
 
-打开 CamIn 软件，在登录界面点击忘记密码，在出现的界面上输入原手机号+验证码设置新的登录密码。
+登录 [Camin 官网](https://www.camin.cn/login)，在登录界面点击忘记密码，在出现的界面上输入原手机号+验证码设置新的密码。
+
+<figure><img src="../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
+
+你也可以打开 CamIn 软件，在登录界面点击忘记密码，在出现的界面上输入原手机号+验证码设置新的登录密码。
 
 {% hint style="info" %}
 如果你已经是通过账号+密码登录的，可以跳过此步骤。

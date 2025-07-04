@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 🤿 Windows无法找到 Camin 摄像头
 
 安装 Camin 开映软件之后，如果你发现在腾讯会议、直播伴侣等视频软件中无法找到 “Camin virtual camera” 这个选项。你可以尝试按照以下方法修复。

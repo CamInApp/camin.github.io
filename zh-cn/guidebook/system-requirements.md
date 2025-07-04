@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 💻 最低配置要求
 
 CamIn 开映目前支持 PC 端使用，暂不支持移动端。以下是各系统的最低配置要求。

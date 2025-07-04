@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 🔃 上传视频到云空间
 
 将视频上传至 CamIn 开映云空间，就可以通过网页或「开映微信小程序」实现视频的轻松分享传播。CamIn 开映提供两种方式上传视频：

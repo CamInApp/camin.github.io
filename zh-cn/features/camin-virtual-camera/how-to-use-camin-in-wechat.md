@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 👽 在微信中使用 CamIn 开映虚拟摄像头
 
 ### 选中 CamIn virtual camera

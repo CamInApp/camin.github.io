@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 🎦 添加网络摄像头作为内容源
 
 网络摄像头（IP camera）是传统摄像机与网络视频技术相结合的新一代产品，除了具备一般传统摄像机所有的图像捕捉功能外，机内还内置了数字化压缩控制器和基于WEB的操作系统，使得视频数据经压缩加密后，通过局域网，internet或无线网络送至终端用户。而远端用户可在PC上使用标准的网络浏览器，根据网络摄像机的IP地址，对网络摄像机进行访问。

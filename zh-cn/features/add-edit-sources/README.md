@@ -1,18 +1,4 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
-# 🗃️ 添加与编辑内容源
+# 🗃️ 添加与编辑素材
 
 在 CamIn 开映，素材即内容源，你可以向软件内添加多种内容源。包括：
 

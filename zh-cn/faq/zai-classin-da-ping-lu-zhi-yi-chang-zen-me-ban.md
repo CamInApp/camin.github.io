@@ -1,18 +1,4 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
-# 🖥️ 在 Classin 大屏上录制异常，怎么办？
+# 🖥️ 在 Classin 大屏录制异常，怎么办？
 
 1. 退出 Camin 软件；
 2.  打开文件管理器，在文件地址栏输入 %appdata%，敲回车键打开；

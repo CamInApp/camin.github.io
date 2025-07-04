@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 使用 CamIn 开映和希沃白板录制精品课
 
 目前 CamIn 开映暂时不支持直接导入希沃课件，但你仍然可以通过共享屏幕的方式来录制希沃课件的京平课程。接下来是详细的教程说明。
