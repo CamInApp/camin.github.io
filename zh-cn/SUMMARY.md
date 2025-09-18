@@ -60,7 +60,7 @@
 * [📼 视频播放卡顿，怎么办？](faq/shi-pin-bo-fang-ka-dun-zen-me-ban.md)
 * [☠️ 如何找回没有正常保存的视频](faq/recover-videos.md)
 * [😵 投屏失败](faq/tou-ping-shi-bai.md)
-* [😏 PPT上传失败](faq/ppt-shang-chuan-shi-bai.md)
+* [📄 PPT上传失败](faq/ppt-shang-chuan-shi-bai.md)
 * [😥 画笔太粗](faq/hua-bi-tai-cu.md)
 * [🤨 使用虚拟背景后人像消失](faq/shi-yong-xu-ni-bei-jing-hou-ren-xiang-xiao-shi.md)
 * [🐞 CamIn 在 ClassIn 中黑屏](faq/camin-zai-classin-zhong-hei-ping.md)
