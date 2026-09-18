@@ -70,6 +70,8 @@
 * [🤹 会员到期后，加密分享的视频还能看吗？](faq/hui-yuan-dao-qi-hou-jia-mi-fen-xiang-de-shi-pin-hai-neng-kan-ma.md)
 * [😑 Mac 版启动时提示输入密码后直接退出](faq/mac-ban-qi-dong-shi-ti-shi-shu-ru-mi-ma-hou-zhi-jie-tui-chu.md)
 * [😭 CamIn一启动就崩溃怎么办](faq/camin-yi-qi-dong-jiu-beng-kui-zen-me-ban.md)
+* [😓 一点录制就提示“录制异常，请重试”](faq/yi-dian-lu-zhi-jiu-ti-shi-lu-zhi-yi-chang-qing-chong-shi.md)
+* [😀 如何上报日志](faq/ru-he-shang-bao-ri-zhi.md)
 
 ## 🇨🇳 关于我们 <a href="#about-us" id="about-us"></a>
 
