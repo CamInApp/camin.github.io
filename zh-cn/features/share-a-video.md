@@ -1,3 +1,26 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
+---
+
 # 🔗 使用 CamIn 开映分享视频
 
 ### 使用网页链接分享视频
@@ -11,7 +34,7 @@
 
     CamIn 开映网页端提供链接分享和二维码分享两种方式分享视频，你也可以根据需要设计密码分享或视频观看的有效期。
 
-### 使用小程序分享视频
+### 使用小程序分享视频（<mark style="color:red;">小程序已下架，不再支持</mark>）
 
 1.  微信搜索「开映小程序」或微信扫描下方二维码，你可以使用 CamIn 开映官网微信小程序分享视频。
 
