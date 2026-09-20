@@ -76,6 +76,7 @@
 ## 🇨🇳 关于我们 <a href="#about-us" id="about-us"></a>
 
 * [🔔 更新日志](about-us/changelog.md)
+* [🎬 素材口播与自动录制](about-us/su-cai-kou-bo-yu-zi-dong-lu-zhi.md)
 * [📞 联系我们](about-us/contactus.md)
 * [👤 用户协议](about-us/yong-hu-xie-yi.md)
 * [🔐 隐私政策](about-us/yin-si-zheng-ce.md)

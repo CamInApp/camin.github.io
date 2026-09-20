@@ -1,3 +1,26 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
+---
+
 # 🔔 更新日志
 
 ## 网页版/CamIn 小程序
@@ -9,6 +32,14 @@
 3. 【修复】修复了可能导致视频播放失败或视频无法加载的问题
 
 ## CamIn PC 客户端
+
+### CamIn v3.3.0.24
+
+2026年09月20日
+
+1. 【新功能】新增了素材口播场景
+2. 【新功能】支持素材口播视频片段编排和自动录制
+3. 【修复】修复了一些线上问题
 
 ### CamIn v3.2.1.5
 
