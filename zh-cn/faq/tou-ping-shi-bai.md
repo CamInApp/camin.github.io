@@ -1,3 +1,26 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
+---
+
 # 😵 投屏失败
 
 首先检查网络，确保移动设备与电脑连接到同一个网络（局域网）。确认在同一个网络后仍投屏失败，可尝试关闭电脑防火墙。

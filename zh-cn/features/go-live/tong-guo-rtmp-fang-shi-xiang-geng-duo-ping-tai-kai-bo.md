@@ -1,3 +1,26 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
+---
+
 # 📍 通过RTMP方式向更多平台开播
 
 使用RTMP的方式可以向任意直播平台推流直播，你只需要将推流地址和推流密钥输入到软件即可。以下是操作步骤。

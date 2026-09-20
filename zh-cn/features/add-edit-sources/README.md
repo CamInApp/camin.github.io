@@ -1,3 +1,26 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
+---
+
 # 🗃️ 添加与编辑素材
 
 在 CamIn 开映，素材即内容源，你可以向软件内添加多种内容源。包括：

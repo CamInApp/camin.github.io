@@ -1,3 +1,26 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
+---
+
 # 🖥️ 共享电脑桌面或应用
 
 在文档内容区点击【+】号，在打开的窗口中选择【共享屏幕】，然后选择要共享的应用或者桌面即可。

@@ -1,3 +1,26 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
+---
+
 # 📷 将相机添加为摄像头
 
 CamIn 开映支持将相机作为内容源添加到软件。在使用相机作为内容源时，请根据相机的品牌选择官方提供的应用软件。然后按照如下方法选择并添加摄像头即可。

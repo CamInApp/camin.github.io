@@ -40,6 +40,7 @@
   * [🤝 在腾讯会议中使用开映虚拟摄像头](features/camin-virtual-camera/how-to-use-camin-virtual-camera-in-tencent.md)
   * [👽 在微信中使用 CamIn 开映虚拟摄像头](features/camin-virtual-camera/how-to-use-camin-in-wechat.md)
   * [🕊️ 在 Zoom 中使用开映虚拟摄像头](features/camin-virtual-camera/how-to-use-camin-in-zoom.md)
+* [🎬 素材口播与自动录制](features/su-cai-kou-bo-yu-zi-dong-lu-zhi.md)
 
 ***
 
@@ -76,7 +77,6 @@
 ## 🇨🇳 关于我们 <a href="#about-us" id="about-us"></a>
 
 * [🔔 更新日志](about-us/changelog.md)
-* [🎬 素材口播与自动录制](about-us/su-cai-kou-bo-yu-zi-dong-lu-zhi.md)
 * [📞 联系我们](about-us/contactus.md)
 * [👤 用户协议](about-us/yong-hu-xie-yi.md)
 * [🔐 隐私政策](about-us/yin-si-zheng-ce.md)

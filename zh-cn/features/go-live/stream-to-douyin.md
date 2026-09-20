@@ -1,3 +1,26 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
+---
+
 # 🎵 使用 CamIn 开映向抖音直播
 
 抖音官方不提供 RTMP 推流地址和密钥，所以 CamIn 开映暂时无法支持RTMP推流的方式直播。但你仍然可以通过 CamIn 开映虚拟摄像头搭配抖音直播伴侣进行直播。以下是操作步骤。
