@@ -1,5 +1,6 @@
 ---
 layout:
+  width: default
   title:
     visible: true
   description:
@@ -10,9 +11,43 @@ layout:
     visible: true
   pagination:
     visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
 ---
 
 # Changelog
+
+### CamIn v3.3.0.24&#x20;
+
+September 20, 2026
+
+1. \[New] Introduced the Material Script scenario.
+2. \[New] Added support for video clip arrangement and auto-recording in Material Script.
+3. \[Fixes] General bug fixes and stability improvements.
+
+### CamIn v3.2.1.5&#x20;
+
+January 13, 2026
+
+\[Fixes] Fixed an issue where uploading PowerPoint presentations could cause the app to crash unexpectedly.
+
+### CamIn v3.2.1.1&#x20;
+
+January 6, 2026
+
+\[Optimization] Screen casting optimizations. \[Optimization] Full compatibility with macOS 26. \[Fixes] Fixed an issue on Windows where Xmind windows were not detected during screen sharing. \[Other] The "Free Membership" promotion has ended.
+
+### CamIn v3.2.0.12&#x20;
+
+January 7, 2025
+
+This update addresses stability issues specifically for Mac models with Apple silicon: Resolved audio crackling and static noise on certain M2 Mac models. We recommend all Apple silicon Mac users update to this version for the best performance.
 
 ### CamIn 3.2.0.11
 

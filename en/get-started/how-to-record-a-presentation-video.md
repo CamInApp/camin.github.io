@@ -10,7 +10,7 @@ Hover 「Doc area」, click 「+」 and then click 「From Computer」 to add yo
 
 ### Adjust layout
 
-**Resize area window：**Hover and  move your mouse to the corner of an area on the preview window. Drag the blue dot to resize the window.
+**Resize area window：**&#x48;over and  move your mouse to the corner of an area on the preview window. Drag the blue dot to resize the window.
 
 **Maximize area window**：Maximize an area window by double click it, double click again to reset. You can also use the shortcut below.
 

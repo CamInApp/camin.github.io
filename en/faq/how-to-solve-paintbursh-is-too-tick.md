@@ -6,7 +6,7 @@
 2. Rename the folder(like camin1).
 3. Relaunch CamIn.
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>screenshot 3</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p>screenshot 3</p></figcaption></figure>
 
 ### For macOS
 
@@ -14,5 +14,5 @@
 2. Find a folder named with numbers.
 3. Open this folder and delete the .edb files.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 

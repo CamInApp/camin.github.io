@@ -1,5 +1,6 @@
 ---
 layout:
+  width: default
   title:
     visible: true
   description:
@@ -9,6 +10,14 @@ layout:
   outline:
     visible: true
   pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
     visible: true
 ---
 
@@ -98,4 +107,4 @@ This method also applies to other platforms, such as WeChat channel-live, etc.
 4. During the live stream, you cannot switch streaming platforms. You need to stop the current stream, reselect the streaming platform, and then start the live stream again.
 5. CamIn currently does not support recording live streams; you can enable live playback on the streaming platform instead.
 
-\
+<br>
