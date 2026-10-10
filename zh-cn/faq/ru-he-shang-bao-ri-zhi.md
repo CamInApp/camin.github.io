@@ -1,3 +1,9 @@
 # 😀 如何上报日志
 
-![image.png](https://cofile.eeo.cn/res-store%2Fac88297f6c12ba1adb3bc2e4ce92370260840f5c86b04bc5aeb8e0775ec4046d_505648?q-sign-algorithm=sha1\&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H\&q-sign-time=1789660800;1790265600\&q-key-time=1789660800;1790265600\&q-header-list=host\&q-url-param-list=\&q-signature=dda15e881f0a8f62e50800626ee314594eb5dd52) ![image.png](https://cofile.eeo.cn/res-store%2F23c99ce072b40a80758600313bd208904a181448af3cf9c257d19695a23d4d63_48201?q-sign-algorithm=sha1\&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H\&q-sign-time=1789660800;1790265600\&q-key-time=1789660800;1790265600\&q-header-list=host\&q-url-param-list=\&q-signature=4b76e21b8b9ed9bcb5129755cca72c506ee0fbac) ![image.png](https://cofile.eeo.cn/res-store%2F3cdf5a53600e1c16866660bac277dde953698cd53bf411b7eeaa700d7d021dec_40131?q-sign-algorithm=sha1\&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H\&q-sign-time=1789660800;1790265600\&q-key-time=1789660800;1790265600\&q-header-list=host\&q-url-param-list=\&q-signature=f00a43f70cf67efd6b224a76681f1e1d2b552d1e)
+1. **点击个人头像，选择设置**
+
+<figure><img src="../.gitbook/assets/设置弹窗入口.png" alt=""><figcaption></figcaption></figure>
+
+2. **点击左侧“关于软件”，再点“日志上报”，确保弹出了上报成功提示**
+
+<figure><img src="../.gitbook/assets/上报日志.png" alt=""><figcaption></figcaption></figure>

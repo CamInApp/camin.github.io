@@ -1,3 +1,23 @@
 # 🎬 素材口播与自动录制
 
-![image.png](https://cofile.eeo.cn/res-store%2F87860da093a842c41526f1382f52a4d97ba52b3ac4d5a7e9705ae6980041c215_130432?q-sign-algorithm=sha1\&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H\&q-sign-time=1789833600;1790438400\&q-key-time=1789833600;1790438400\&q-header-list=host\&q-url-param-list=\&q-signature=215ecac6a312253c1fe3ac4cc44e3133b6b9a90f) ![image.png](https://cofile.eeo.cn/res-store%2F107c190e9ab9ba8db8079e5cb42dfd917d7692f88a7551fcf6f9ec150c1dfb83_91679?q-sign-algorithm=sha1\&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H\&q-sign-time=1789833600;1790438400\&q-key-time=1789833600;1790438400\&q-header-list=host\&q-url-param-list=\&q-signature=08c8814f9ea6fdebf764f3755a6655733b8727a8) ![image.png](https://cofile.eeo.cn/res-store%2Fb03ffd9f7b97fecf82ce2f0224d2a756149e6c91ead705f1898b8605114fdb07_147510?q-sign-algorithm=sha1\&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H\&q-sign-time=1789833600;1790438400\&q-key-time=1789833600;1790438400\&q-header-list=host\&q-url-param-list=\&q-signature=809d040d966f6b56208c9c3a53a9923ef8006156) ![image.png](https://cofile.eeo.cn/res-store%2Fd5c30024da449e11b07ebbda747e9d3891562fc586906abb0b73249bcdbed606_75713?q-sign-algorithm=sha1\&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H\&q-sign-time=1789833600;1790438400\&q-key-time=1789833600;1790438400\&q-header-list=host\&q-url-param-list=\&q-signature=b9a876771606047b1ca4fe13d9d2246e892f0430) ![image.png](https://cofile.eeo.cn/res-store%2F243ae131393095f970df2e742129d418a88be1b935881264f3ac1404e73aa3e3_74038?q-sign-algorithm=sha1\&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H\&q-sign-time=1789833600;1790438400\&q-key-time=1789833600;1790438400\&q-header-list=host\&q-url-param-list=\&q-signature=6a2e6ee0dde76b0be197d3246850848744ff92d6) ![image.png](https://cofile.eeo.cn/res-store%2Fb001db8c6beed273ff21e99fff33b4ece1dc3650ca2ba00f3033b3f951a21e02_144323?q-sign-algorithm=sha1\&q-ak=AKIDJQGsEOK2TfbFdEZifMnxrWx85mpdHj6H\&q-sign-time=1789833600;1790438400\&q-key-time=1789833600;1790438400\&q-header-list=host\&q-url-param-list=\&q-signature=e0da9d3a7e6a428e499fe07f5fdc6014bbf31162)
+## 1. 创建素材口播场景
+
+其他场景也可以支持口播和自动录制，素材口播场景支持您纯净录制，无其他内容区干扰。
+
+<figure><img src="../.gitbook/assets/新建 BMP 图像.bmp" alt=""><figcaption></figcaption></figure>
+
+## 2. 添加需要讲解的素材（ppt、pdf或者图片）
+
+<figure><img src="../.gitbook/assets/新建 BMP 图像 (1).bmp" alt=""><figcaption></figcaption></figure>
+
+## 3. 点“开始录制”，选择“自动录制”
+
+<figure><img src="../.gitbook/assets/自动录制入口.png" alt=""><figcaption></figcaption></figure>
+
+## 4. 编辑口播内容，选择音色，点击生成后，可以试听。
+
+<figure><img src="../.gitbook/assets/生成口播音频.png" alt=""><figcaption></figcaption></figure>
+
+## 5. 编排完成后，点自动录制，等待自动录制完成进入录制预览就可以了<mark style="color:red;">（中间不需要做任何操作）</mark>。
+
+<figure><img src="../.gitbook/assets/自动录制.png" alt=""><figcaption></figcaption></figure>
