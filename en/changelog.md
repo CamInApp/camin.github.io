@@ -23,6 +23,14 @@ layout:
 
 # Changelog
 
+### CamIn v3.3.1.17&#x20;
+
+November 10, 2026
+
+1. Improved caption display, with an option to enable or disable caption generation during auto-recording.
+2. Enabled teleprompter support while sharing your screen or application.
+3. Fixed known issues.
+
 ### CamIn v3.3.0.24&#x20;
 
 September 20, 2026
